@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+/*搜索部分*/ 
+.mod_search{height:83px;width:80%;left:190px;top:-10px;position:relative}
+.mod_search .inner{width:1000px;height:80px;position:relative;margin:0 auto}
+.mod_search h1{font-family:"Microsoft Yahei";font-weight:lighter;color:white;width:95px;height:80px;line-height:80px;float:left}
+.mod_search .search_area{width:690px;float:left}
+.mod_search .search_area .search_area_inner{position:relative;display:block;position:relative}
+.search_field_outer{height:36px;width:590px;margin-right:96px;background-color:#f5f6f7;border:2px solid #3690e8;margin-top:23px}
+.search_field_outer .search_field_inner{height:36px;width:590px}
+.search_field_outer .search_field_inner .search_field_width{padding:0 90px 0 0;width:500px;height:36px}
+.search_field_outer .search_field_inner .search_field_width .search_attach{height:35px;width:500px}
+.search_field_outer .search_field_inner .search_field_width .search_attach input{margin:0;padding:0;height:35px;line-height:35px;font-size:12px;color:white;width:100%;margin-left:5px;border-right:1px solid #414550;background-color:transparent;color:white;outline:0;border:none;color:#595959}
+.search_category{display:inline-block;position:absolute;left:507px;top:2px;height:36px;padding-left:6px;width:78px;border-left:1px solid #C8C9CC;overflow:hidden;color:#a6a8af;line-height:35px}
+.search_category .arrow_down{position:absolute;top:14px;right:10px;width:0;height:0;font-size:0;line-height:0;display:inline-block;border-width:5px;border-color:#a6a8af transparent transparent transparent;border-style:solid dashed dashed dashed;vertical-align:-4px;_vertical-align:-2px;vertical-align:5px\0;margin-left:4px}
+.search_category a{color:#a6a8af}
+.search_category a:hover{text-decoration:none}
+.search_field_outer a.search_cate_text{font-size:12px;display:inline-block;color:#a6a8af;white-space:nowrap;height:27px;margin:0 25px 0 6px;line-height:27px;text-overflow:ellipsis}
+.search_field_outer .search_field_inner .down_items{position:absolute;top:38px;left:507px;background-color:white;width:83px;height:108px;border:1px solid #ececec;z-index:10}
+.search_field_outer .search_field_inner .down_items li{height:36px;line-height:36px;text-align:left;width:83px;border-bottom:1px solid #d4d5d6}
+.search_field_outer .search_field_inner .down_items li.border_none{border-bottom:none}
+.search_field_outer .search_field_inner .down_items li a{display:inline-block;width:83px;height:36px;line-height:36px;color:#a6a8af;font-size:12px;font-family:"\5B8B\4F53"}
+.search_field_outer .search_field_inner .down_items li a span{padding-left:5px}
+.search_field_outer .search_field_inner .down_items li a:hover{background-color:#f0f1f2;text-decoration:none}
+.mod_search .submit_btn{position:absolute;right:0;top:0;left:593px;height:40px;_height:41px;overflow:hidden;margin:0}
+.mod_search .submit_btn input{width:96px;height:40px;_height:41px;padding:0;margin:0;_line-height:38px;background-color:transparent;_background-color:#548D0A;background-image:url(images/wiki_new.png);background-position:-177px 0;background-repeat:no-repeat;font-size:14px;color:white;border:none}
+.mod_search .search_btn{width:96px;height:34px;padding:0;margin:0;cursor:pointer;font-weight:bold;color:white;line-height:12px;font-size:13px}
+.mod_search .nav_links_box{position:relative;padding-left:10px;width:270;_width:300px;position:absolute;top:36px;left:710px;_left:700px}
+.mod_search .nav_links_box li{display:inline-block;list-style:none;margin-left:10px;float:left}
+.mod_search .nav_links_box li a{color:#2494e4}
+.mod_search .nav_links_box i{position:absolute;left:0;top:0;width:16px;height:14px;background-image:url(images/wiki_new-32.png);background-position:-207px -34px;_background-image:url(images/wiki_new-ie6.png);_background-position:-182px -17px;background-repeat:no-repeat}
+
+.soso_page{_height:600px;min-height:600px;margin-top:-30px;color:#333}.soso_page a,.soso_page a:hover{color:#06C;text-decoration:underline}.soso_page .soso_result{float:left;width:809px;font-size:14px;margin-top: 30px;}.soso_page .soso_logo{float:right;width:173px}.soso_page .soso_logo .link_soso,.soso_page .soso_logo .link_soso:hover{display:block;width:173px;height:16px;margin-top:30px;background:url(./images/soso_bg.png) no-repeat left -25px}.soso_page .soso_result .result_404 dt{padding:40px 0 30px 0}.soso_page .soso_result .try_again,.soso_page .soso_result .try_again:hover{display:block;float:left;width:66px;height:28px;background:url(../img/p_pop_box.png) no-repeat left -28px;text-align:center;line-height:28px;font-weight:bold;color:#fff;text-decoration:none}.soso_page .soso_result .result_no .t{padding:30px 0}.soso_page .soso_result .result_no .t em{color:#C03}.soso_page .soso_result .result_no dt{padding-bottom:12px;font-weight:bold}.soso_page .soso_result .result_no dd{padding:0 0 8px 20px;background:url(../img/soso_bg.png) no-repeat -173px -35px;_background-position:-173px -37px}.soso_page .soso_result .result_list{width:730px}.soso_page .soso_result .list_box{padding:30px 0 15px 0}.soso_page .soso_result .list_box .f_error{font-size:16px;margin-bottom:8px}.soso_page .soso_result .list_box .f_error a em{color:#C03;text-decoration:underline}.soso_page .soso_result .list_box .f_error em{color:#C03;text-decoration:none}.soso_page .soso_result .list_box .jg{font-size:12px;margin-top:8px}.soso_page .soso_result .list_box ol li{margin-bottom:15px}.soso_page .soso_result .list_box ol li .navlk{padding:5px 0 4px 18px}.soso_page .soso_result .list_box ol li .navlk ul{float:left;margin-right:50px}.soso_page .soso_result .list_box ol li .navlk ul li{line-height:18px;margin:0;width:auto}.soso_page .soso_result .list_box ol li .navlk ul li a{font-size:small}.soso_page .soso_result .list_box ol li .dirlk{color:#666;padding-left:18px}.soso_page .soso_result .list_box ol h3{font-size:medium;font-weight:normal}.soso_page .soso_result .list_box ol h3 a{font-size:medium}.soso_page .soso_result .list_box ol h3 em{color:#C03;text-decoration:underline}.soso_page .soso_result .list_box ol h3 span{color:#06C}.soso_page .soso_result .list_box ol p{font-size:small;line-height:140%;text-align:justify;word-wrap:break-word}.soso_page .soso_result .list_box ol p em{color:#C03}.soso_page .soso_result .list_box ol p span{color:#666}.soso_page .soso_result .list_box ol li .result_summary{color:#000;font-size:small;line-height:140%}.soso_page .soso_result .list_box ol li .result_summary cite{color:#008000;margin-right:5px}.soso_page .soso_result .list_box ol li .result_summary .url{color:#666;display:inline}.soso_page .soso_result .list_box ol li .result_summary .url a{color:#666;margin:0 5px}.soso_page .soso_result .list_box ol li .result_summary .yl1{color:#666}.soso_page .soso_result .list_box ol li .result_summary .url a.bio{color:#008000;margin:0 5px 0 0}.soso_page .soso_result .list_box .gd a{margin-left:10px}.soso_page .soso_result .list_box .notfound{font-size:14px;line-height:180%}.soso_page .soso_result .list_box .notfound em{color:#C03}.soso_page .soso_result .list_page{margin-bottom:50px;font-size:14px;text-align:left;white-space:nowrap}.soso_page .soso_result .list_page a,.soso_page .soso_result .list_page a:link,.soso_page .soso_result .list_page a:visited,.soso_page .soso_result .list_page span.current{background:none repeat scroll 0 0 #FFF;border:1px solid #D8D8D8;color:#0066CA;display:inline-block;font-family:'Tahoma';height:28px;line-height:28px;margin-right:5px;text-align:center;text-decoration:none;width:28px}.soso_page .soso_result .list_page a:hover{background:none repeat scroll 0 0 #D1E5FC}.soso_page .soso_result .list_page span.current{border:1px solid #FFF;color:#000;font-weight:bold}.soso_page .soso_result .list_page span.extend{padding:0 5px 8px 0}.soso_page .soso_result .list_page a.pre,.soso_page .soso_result .list_page a.next{width:70px}
+/*! CssGaga */
+
+.search_result{margin:0 auto;width:1000px}
+.search_result .hd{height:40px;line-height:40px;border-bottom:1px solid #E2E2E2}
+.search_result .hd h3{display:inline-block;*zoom:1;*display:inline;margin:0;margin-right:45px;font-weight:bold;font-size:16px;vertical-align:middle}
+.search_result .hd span a{padding:0 8px;color:#5F940A}
+.search_result .bd{padding:15px 0}
+.search_result .bd h3{margin-left:0}
+

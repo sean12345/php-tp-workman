@@ -1,0 +1,1534 @@
+2016-10-10 17:08:56 Workerman[cli.php] start in DEBUG mode
+2016-10-10 17:08:57 Workerman[cli.php] status 
+2016-10-10 17:21:22 Workerman[cli.php] status 
+2016-10-10 17:21:26 Workerman[cli.php] stop 
+2016-10-10 17:21:26 Workerman[cli.php] is stoping ...
+2016-10-10 17:21:26 Workerman[cli.php] Stopping ...
+2016-10-10 17:21:26 Workerman[cli.php] has been stopped
+2016-10-10 17:21:26 Workerman[cli.php] stop success
+2016-10-10 17:21:27 Workerman[cli.php] status 
+2016-10-10 17:21:27 Workerman[cli.php] not run
+2016-10-10 17:21:29 Workerman[cli.php] status 
+2016-10-10 17:21:29 Workerman[cli.php] not run
+2016-10-10 17:21:39 Workerman[cli.php] status 
+2016-10-10 17:21:39 Workerman[cli.php] not run
+2016-10-10 17:21:40 Workerman[cli.php] status 
+2016-10-10 17:21:40 Workerman[cli.php] not run
+2016-10-10 17:21:51 Workerman[cli.php] status 
+2016-10-10 17:21:51 Workerman[cli.php] not run
+2016-10-10 17:26:06 Workerman[cli.php] start in DEBUG mode
+2016-10-10 17:26:07 Workerman[cli.php] status 
+2016-10-10 17:26:11 Workerman[cli.php] status 
+2016-10-10 17:33:39 Workerman[cli.php] stop 
+2016-10-10 17:33:39 Workerman[cli.php] is stoping ...
+2016-10-10 17:33:39 Workerman[cli.php] Stopping ...
+2016-10-10 17:33:39 Workerman[cli.php] has been stopped
+2016-10-10 17:33:39 Workerman[cli.php] stop success
+2016-10-10 17:33:40 Workerman[cli.php] status 
+2016-10-10 17:33:40 Workerman[cli.php] not run
+2016-10-10 17:33:42 Workerman[cli.php] start in DEBUG mode
+2016-10-10 17:33:43 Workerman[cli.php] status 
+2016-10-10 17:53:34 Workerman[cli.php] stop 
+2016-10-10 17:53:34 Workerman[cli.php] is stoping ...
+2016-10-10 17:53:34 Workerman[cli.php] Stopping ...
+2016-10-10 17:53:34 Workerman[cli.php] has been stopped
+2016-10-10 17:53:34 Workerman[cli.php] stop success
+2016-10-10 17:53:35 Workerman[cli.php] status 
+2016-10-10 17:53:35 Workerman[cli.php] not run
+2016-10-11 10:55:12 Workerman[cli.php] status 
+2016-10-11 10:55:12 Workerman[cli.php] not run
+2016-10-11 10:55:23 Workerman[cli.php] status 
+2016-10-11 10:55:23 Workerman[cli.php] not run
+2016-10-11 10:55:28 Workerman[cli.php] start in DEBUG mode
+2016-10-11 10:55:30 Workerman[cli.php] status 
+2016-10-11 13:51:32 WORKER EXIT UNEXPECTED 
+2016-10-11 13:51:32 worker[SubOrderPushWorker:3305] exit with status 64000
+2016-10-11 14:24:05 WORKER EXIT UNEXPECTED 
+2016-10-11 14:24:05 worker[SubOrderPushWorker:3306] exit with status 64000
+2016-10-12 09:25:01 Workerman[cli.php] status 
+2016-10-12 09:29:31 Workerman[cli.php] stop 
+2016-10-12 09:29:31 Workerman[cli.php] is stoping ...
+2016-10-12 09:29:31 Workerman[cli.php] Stopping ...
+2016-10-12 09:29:31 Workerman[cli.php] has been stopped
+2016-10-12 09:29:31 Workerman[cli.php] stop success
+2016-10-12 09:29:32 Workerman[cli.php] status 
+2016-10-12 09:29:32 Workerman[cli.php] not run
+2016-10-12 09:30:21 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:31:40 Workerman[cli.php] Stopping ...
+2016-10-12 09:31:40 Workerman[cli.php] has been stopped
+2016-10-12 09:31:41 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:39:02 Workerman[cli.php] Stopping ...
+2016-10-12 09:39:02 Workerman[cli.php] has been stopped
+2016-10-12 09:39:02 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:41:34 Workerman[cli.php] Stopping ...
+2016-10-12 09:41:34 Workerman[cli.php] has been stopped
+2016-10-12 09:41:35 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:42:25 Workerman[cli.php] Stopping ...
+2016-10-12 09:42:25 Workerman[cli.php] has been stopped
+2016-10-12 09:42:26 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:43:54 Workerman[cli.php] Stopping ...
+2016-10-12 09:43:54 Workerman[cli.php] has been stopped
+2016-10-12 09:43:57 Workerman[cli.php] start in DEBUG mode
+2016-10-12 09:44:01 Workerman[cli.php] stop 
+2016-10-12 09:44:01 Workerman[cli.php] is stoping ...
+2016-10-12 09:44:01 Workerman[cli.php] Stopping ...
+2016-10-12 09:44:01 Workerman[cli.php] has been stopped
+2016-10-12 09:44:01 Workerman[cli.php] stop success
+2016-10-12 14:32:21 Workerman[cli.php] status 
+2016-10-12 14:32:21 Workerman[cli.php] not run
+2016-10-12 14:32:24 Workerman[cli.php] stop 
+2016-10-12 14:32:24 Workerman[cli.php] not run
+2016-10-12 14:32:25 Workerman[cli.php] status 
+2016-10-12 14:32:25 Workerman[cli.php] not run
+2016-10-12 14:32:40 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:33:50 Workerman[cli.php] Stopping ...
+2016-10-12 14:33:50 Workerman[cli.php] has been stopped
+2016-10-12 14:33:51 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:36:59 Workerman[cli.php] Stopping ...
+2016-10-12 14:36:59 Workerman[cli.php] has been stopped
+2016-10-12 14:37:00 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:55:05 Workerman[cli.php] Stopping ...
+2016-10-12 14:55:05 Workerman[cli.php] has been stopped
+2016-10-12 14:55:06 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:55:28 Workerman[cli.php] Stopping ...
+2016-10-12 14:55:28 Workerman[cli.php] has been stopped
+2016-10-12 14:55:29 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:56:21 Workerman[cli.php] Stopping ...
+2016-10-12 14:56:21 Workerman[cli.php] has been stopped
+2016-10-12 14:56:22 Workerman[cli.php] start in DEBUG mode
+2016-10-12 14:57:37 Workerman[cli.php] Stopping ...
+2016-10-12 14:57:37 Workerman[cli.php] has been stopped
+2016-10-17 10:22:07 Workerman[cli.php] status 
+2016-10-17 10:22:07 Workerman[cli.php] not run
+2016-10-17 10:22:11 Workerman[cli.php] stop 
+2016-10-17 10:22:11 Workerman[cli.php] not run
+2016-10-17 10:22:12 Workerman[cli.php] status 
+2016-10-17 10:22:12 Workerman[cli.php] not run
+2016-10-17 10:22:16 Workerman[cli.php] start in DEBUG mode
+2016-10-17 10:22:17 Workerman[cli.php] status 
+2016-10-17 10:22:49 Workerman[cli.php] status 
+2016-10-17 10:23:02 Workerman[cli.php] status 
+2016-10-17 10:23:38 Workerman[cli.php] status 
+2016-10-17 10:24:31 Workerman[cli.php] status 
+2016-10-17 10:24:39 Workerman[cli.php] status 
+2016-10-17 10:29:10 Workerman[cli.php] status 
+2016-10-17 10:35:58 Workerman[cli.php] status 
+2016-10-17 10:36:02 Workerman[cli.php] status 
+2016-10-17 10:36:43 Workerman[cli.php] status 
+2016-10-17 10:36:46 Workerman[cli.php] status 
+2016-10-17 10:36:51 Workerman[cli.php] status 
+2016-10-17 10:37:47 Workerman[cli.php] status 
+2016-10-17 10:38:52 Workerman[cli.php] status 
+2016-10-17 10:41:49 Workerman[cli.php] status 
+2016-10-17 10:43:37 Workerman[cli.php] status 
+2016-10-17 10:54:11 Workerman[cli.php] status 
+2016-10-17 11:03:55 Workerman[cli.php] status 
+2016-10-17 11:04:00 Workerman[cli.php] status 
+2016-10-17 11:04:03 Workerman[cli.php] status 
+2016-10-17 11:04:04 Workerman[cli.php] status 
+2016-10-17 11:04:04 Workerman[cli.php] status 
+2016-10-17 11:04:17 Workerman[cli.php] status 
+2016-10-17 13:32:52 WORKER EXIT UNEXPECTED 
+2016-10-17 13:32:52 worker[SubOrderPushWorker:24259] exit with status 64000
+2016-10-17 13:32:52 WORKER EXIT UNEXPECTED 
+2016-10-17 13:32:52 worker[SubOrderPushWorker:24260] exit with status 64000
+2016-10-17 13:32:56 WORKER EXIT UNEXPECTED 
+2016-10-17 13:32:56 worker[SubOrderPushWorker:26595] exit with status 64000
+2016-10-17 13:32:56 WORKER EXIT UNEXPECTED 
+2016-10-17 13:32:56 worker[SubOrderPushWorker:26597] exit with status 64000
+2016-10-17 13:35:00 WORKER EXIT UNEXPECTED 
+2016-10-17 13:35:00 WORKER EXIT UNEXPECTED 
+2016-10-17 13:35:00 worker[SubOrderPushWorker:26599] exit with status 64000
+2016-10-17 13:35:01 worker[SubOrderPushWorker:26600] exit with status 64000
+2016-10-17 13:35:05 WORKER EXIT UNEXPECTED 
+2016-10-17 13:35:05 WORKER EXIT UNEXPECTED 
+2016-10-17 13:35:05 worker[SubOrderPushWorker:26632] exit with status 64000
+2016-10-17 13:35:05 worker[SubOrderPushWorker:26631] exit with status 64000
+2016-10-17 13:37:11 WORKER EXIT UNEXPECTED 
+2016-10-17 13:37:11 worker[SubOrderPushWorker:26635] exit with status 64000
+2016-10-17 13:39:16 WORKER EXIT UNEXPECTED 
+2016-10-17 13:39:16 WORKER EXIT UNEXPECTED 
+2016-10-17 13:39:16 worker[SubOrderPushWorker:26634] exit with status 64000
+2016-10-17 13:39:16 worker[SubOrderPushWorker:26665] exit with status 64000
+2016-10-17 13:43:26 WORKER EXIT UNEXPECTED 
+2016-10-17 13:43:26 WORKER EXIT UNEXPECTED 
+2016-10-17 13:43:26 worker[SubOrderPushWorker:26707] exit with status 64000
+2016-10-17 13:43:26 worker[SubOrderPushWorker:26706] exit with status 64000
+2016-10-17 13:45:29 WORKER EXIT UNEXPECTED 
+2016-10-17 13:45:29 worker[SubOrderPushWorker:26770] exit with status 64000
+2016-10-17 13:45:30 WORKER EXIT UNEXPECTED 
+2016-10-17 13:45:30 worker[SubOrderPushWorker:26771] exit with status 64000
+2016-10-17 13:47:35 WORKER EXIT UNEXPECTED 
+2016-10-17 13:47:35 worker[SubOrderPushWorker:26844] exit with status 64000
+2016-10-17 13:47:35 WORKER EXIT UNEXPECTED 
+2016-10-17 13:47:35 worker[SubOrderPushWorker:26846] exit with status 64000
+2016-10-17 13:49:40 WORKER EXIT UNEXPECTED 
+2016-10-17 13:49:40 WORKER EXIT UNEXPECTED 
+2016-10-17 13:49:40 worker[SubOrderPushWorker:26875] exit with status 64000
+2016-10-17 13:49:40 worker[SubOrderPushWorker:26873] exit with status 64000
+2016-10-17 13:51:45 WORKER EXIT UNEXPECTED 
+2016-10-17 13:51:45 WORKER EXIT UNEXPECTED 
+2016-10-17 13:51:45 worker[SubOrderPushWorker:26907] exit with status 64000
+2016-10-17 13:51:45 worker[SubOrderPushWorker:26906] exit with status 64000
+2016-10-17 13:53:50 WORKER EXIT UNEXPECTED 
+2016-10-17 13:53:50 WORKER EXIT UNEXPECTED 
+2016-10-17 13:53:50 worker[SubOrderPushWorker:26934] exit with status 64000
+2016-10-17 13:53:50 worker[SubOrderPushWorker:26933] exit with status 64000
+2016-10-17 13:55:55 WORKER EXIT UNEXPECTED 
+2016-10-17 13:55:55 worker[SubOrderPushWorker:26964] exit with status 64000
+2016-10-17 13:55:56 WORKER EXIT UNEXPECTED 
+2016-10-17 13:55:56 worker[SubOrderPushWorker:26966] exit with status 64000
+2016-10-17 13:58:00 WORKER EXIT UNEXPECTED 
+2016-10-17 13:58:00 worker[SubOrderPushWorker:26994] exit with status 64000
+2016-10-17 13:58:01 WORKER EXIT UNEXPECTED 
+2016-10-17 13:58:01 worker[SubOrderPushWorker:26997] exit with status 64000
+2016-10-17 14:00:05 WORKER EXIT UNEXPECTED 
+2016-10-17 14:00:05 WORKER EXIT UNEXPECTED 
+2016-10-17 14:00:05 worker[SubOrderPushWorker:27027] exit with status 64000
+2016-10-17 14:00:05 worker[SubOrderPushWorker:27024] exit with status 64000
+2016-10-17 14:02:10 WORKER EXIT UNEXPECTED 
+2016-10-17 14:02:10 WORKER EXIT UNEXPECTED 
+2016-10-17 14:02:10 worker[SubOrderPushWorker:27057] exit with status 64000
+2016-10-17 14:02:10 worker[SubOrderPushWorker:27056] exit with status 64000
+2016-10-17 14:04:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:04:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:04:16 worker[SubOrderPushWorker:27086] exit with status 64000
+2016-10-17 14:04:16 worker[SubOrderPushWorker:27085] exit with status 64000
+2016-10-17 14:06:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:06:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:06:21 worker[SubOrderPushWorker:27117] exit with status 64000
+2016-10-17 14:06:21 worker[SubOrderPushWorker:27118] exit with status 64000
+2016-10-17 14:10:30 WORKER EXIT UNEXPECTED 
+2016-10-17 14:10:30 WORKER EXIT UNEXPECTED 
+2016-10-17 14:10:30 worker[SubOrderPushWorker:27146] exit with status 64000
+2016-10-17 14:10:30 worker[SubOrderPushWorker:27145] exit with status 64000
+2016-10-17 14:12:35 WORKER EXIT UNEXPECTED 
+2016-10-17 14:12:35 WORKER EXIT UNEXPECTED 
+2016-10-17 14:12:35 worker[SubOrderPushWorker:27217] exit with status 64000
+2016-10-17 14:12:35 worker[SubOrderPushWorker:27220] exit with status 64000
+2016-10-17 14:14:40 WORKER EXIT UNEXPECTED 
+2016-10-17 14:14:40 WORKER EXIT UNEXPECTED 
+2016-10-17 14:14:40 worker[SubOrderPushWorker:27248] exit with status 64000
+2016-10-17 14:14:40 worker[SubOrderPushWorker:27247] exit with status 64000
+2016-10-17 14:16:45 WORKER EXIT UNEXPECTED 
+2016-10-17 14:16:45 worker[SubOrderPushWorker:27279] exit with status 64000
+2016-10-17 14:16:45 WORKER EXIT UNEXPECTED 
+2016-10-17 14:16:45 worker[SubOrderPushWorker:27281] exit with status 64000
+2016-10-17 14:18:51 WORKER EXIT UNEXPECTED 
+2016-10-17 14:18:51 WORKER EXIT UNEXPECTED 
+2016-10-17 14:18:51 worker[SubOrderPushWorker:27307] exit with status 64000
+2016-10-17 14:18:51 worker[SubOrderPushWorker:27310] exit with status 64000
+2016-10-17 14:20:56 WORKER EXIT UNEXPECTED 
+2016-10-17 14:20:56 WORKER EXIT UNEXPECTED 
+2016-10-17 14:20:56 worker[SubOrderPushWorker:27344] exit with status 64000
+2016-10-17 14:20:56 worker[SubOrderPushWorker:27341] exit with status 64000
+2016-10-17 14:23:01 WORKER EXIT UNEXPECTED 
+2016-10-17 14:23:01 WORKER EXIT UNEXPECTED 
+2016-10-17 14:23:01 worker[SubOrderPushWorker:27372] exit with status 64000
+2016-10-17 14:23:01 worker[SubOrderPushWorker:27373] exit with status 64000
+2016-10-17 14:25:06 WORKER EXIT UNEXPECTED 
+2016-10-17 14:25:06 WORKER EXIT UNEXPECTED 
+2016-10-17 14:25:06 worker[SubOrderPushWorker:27404] exit with status 64000
+2016-10-17 14:25:06 worker[SubOrderPushWorker:27403] exit with status 64000
+2016-10-17 14:27:11 WORKER EXIT UNEXPECTED 
+2016-10-17 14:27:11 WORKER EXIT UNEXPECTED 
+2016-10-17 14:27:11 worker[SubOrderPushWorker:27746] exit with status 64000
+2016-10-17 14:27:11 worker[SubOrderPushWorker:27747] exit with status 64000
+2016-10-17 14:29:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:29:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:29:16 worker[SubOrderPushWorker:27787] exit with status 64000
+2016-10-17 14:29:16 worker[SubOrderPushWorker:27789] exit with status 64000
+2016-10-17 14:31:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:31:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:31:21 worker[SubOrderPushWorker:27819] exit with status 64000
+2016-10-17 14:31:21 worker[SubOrderPushWorker:27820] exit with status 64000
+2016-10-17 14:33:26 WORKER EXIT UNEXPECTED 
+2016-10-17 14:33:26 WORKER EXIT UNEXPECTED 
+2016-10-17 14:33:26 worker[SubOrderPushWorker:27849] exit with status 64000
+2016-10-17 14:33:26 worker[SubOrderPushWorker:27848] exit with status 64000
+2016-10-17 14:35:31 WORKER EXIT UNEXPECTED 
+2016-10-17 14:35:31 WORKER EXIT UNEXPECTED 
+2016-10-17 14:35:31 worker[SubOrderPushWorker:27878] exit with status 64000
+2016-10-17 14:35:31 worker[SubOrderPushWorker:27880] exit with status 64000
+2016-10-17 14:37:36 WORKER EXIT UNEXPECTED 
+2016-10-17 14:37:36 WORKER EXIT UNEXPECTED 
+2016-10-17 14:37:36 worker[SubOrderPushWorker:27924] exit with status 64000
+2016-10-17 14:37:36 worker[SubOrderPushWorker:27925] exit with status 64000
+2016-10-17 14:39:41 WORKER EXIT UNEXPECTED 
+2016-10-17 14:39:41 WORKER EXIT UNEXPECTED 
+2016-10-17 14:39:41 worker[SubOrderPushWorker:27957] exit with status 64000
+2016-10-17 14:39:41 worker[SubOrderPushWorker:27956] exit with status 64000
+2016-10-17 14:41:46 WORKER EXIT UNEXPECTED 
+2016-10-17 14:41:46 WORKER EXIT UNEXPECTED 
+2016-10-17 14:41:46 worker[SubOrderPushWorker:28000] exit with status 64000
+2016-10-17 14:41:46 worker[SubOrderPushWorker:27998] exit with status 64000
+2016-10-17 14:43:51 WORKER EXIT UNEXPECTED 
+2016-10-17 14:43:51 WORKER EXIT UNEXPECTED 
+2016-10-17 14:43:51 worker[SubOrderPushWorker:28029] exit with status 64000
+2016-10-17 14:43:51 worker[SubOrderPushWorker:28031] exit with status 64000
+2016-10-17 14:45:56 WORKER EXIT UNEXPECTED 
+2016-10-17 14:45:56 WORKER EXIT UNEXPECTED 
+2016-10-17 14:45:56 worker[SubOrderPushWorker:28063] exit with status 64000
+2016-10-17 14:45:56 worker[SubOrderPushWorker:28062] exit with status 64000
+2016-10-17 14:48:01 WORKER EXIT UNEXPECTED 
+2016-10-17 14:48:01 WORKER EXIT UNEXPECTED 
+2016-10-17 14:48:01 worker[SubOrderPushWorker:28090] exit with status 64000
+2016-10-17 14:48:01 worker[SubOrderPushWorker:28092] exit with status 64000
+2016-10-17 14:50:06 WORKER EXIT UNEXPECTED 
+2016-10-17 14:50:06 WORKER EXIT UNEXPECTED 
+2016-10-17 14:50:06 worker[SubOrderPushWorker:28163] exit with status 64000
+2016-10-17 14:50:06 worker[SubOrderPushWorker:28165] exit with status 64000
+2016-10-17 14:52:11 WORKER EXIT UNEXPECTED 
+2016-10-17 14:52:11 WORKER EXIT UNEXPECTED 
+2016-10-17 14:52:11 worker[SubOrderPushWorker:28228] exit with status 64000
+2016-10-17 14:52:11 worker[SubOrderPushWorker:28227] exit with status 64000
+2016-10-17 14:54:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:54:16 worker[SubOrderPushWorker:28258] exit with status 64000
+2016-10-17 14:54:16 WORKER EXIT UNEXPECTED 
+2016-10-17 14:54:16 worker[SubOrderPushWorker:28259] exit with status 64000
+2016-10-17 14:56:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:56:21 WORKER EXIT UNEXPECTED 
+2016-10-17 14:56:21 worker[SubOrderPushWorker:28287] exit with status 64000
+2016-10-17 14:56:21 worker[SubOrderPushWorker:28288] exit with status 64000
+2016-10-17 14:58:27 WORKER EXIT UNEXPECTED 
+2016-10-17 14:58:27 WORKER EXIT UNEXPECTED 
+2016-10-17 14:58:27 worker[SubOrderPushWorker:28318] exit with status 64000
+2016-10-17 14:58:27 worker[SubOrderPushWorker:28319] exit with status 64000
+2016-10-17 15:00:32 WORKER EXIT UNEXPECTED 
+2016-10-17 15:00:32 worker[SubOrderPushWorker:28351] exit with status 64000
+2016-10-17 15:00:32 WORKER EXIT UNEXPECTED 
+2016-10-17 15:00:32 worker[SubOrderPushWorker:28352] exit with status 64000
+2016-10-17 15:02:37 WORKER EXIT UNEXPECTED 
+2016-10-17 15:02:37 WORKER EXIT UNEXPECTED 
+2016-10-17 15:02:37 worker[SubOrderPushWorker:28378] exit with status 64000
+2016-10-17 15:02:37 worker[SubOrderPushWorker:28381] exit with status 64000
+2016-10-17 15:04:10 Workerman[cli.php] status 
+2016-10-17 15:04:42 WORKER EXIT UNEXPECTED 
+2016-10-17 15:04:42 WORKER EXIT UNEXPECTED 
+2016-10-17 15:04:42 worker[SubOrderPushWorker:28412] exit with status 64000
+2016-10-17 15:04:42 worker[SubOrderPushWorker:28409] exit with status 64000
+2016-10-17 15:06:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:06:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:06:47 worker[SubOrderPushWorker:28446] exit with status 64000
+2016-10-17 15:06:47 worker[SubOrderPushWorker:28445] exit with status 64000
+2016-10-17 15:08:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:08:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:08:52 worker[SubOrderPushWorker:28477] exit with status 64000
+2016-10-17 15:08:52 worker[SubOrderPushWorker:28478] exit with status 64000
+2016-10-17 15:10:57 WORKER EXIT UNEXPECTED 
+2016-10-17 15:10:57 WORKER EXIT UNEXPECTED 
+2016-10-17 15:10:57 worker[SubOrderPushWorker:28509] exit with status 64000
+2016-10-17 15:10:57 worker[SubOrderPushWorker:28510] exit with status 64000
+2016-10-17 15:13:02 WORKER EXIT UNEXPECTED 
+2016-10-17 15:13:02 WORKER EXIT UNEXPECTED 
+2016-10-17 15:13:02 worker[SubOrderPushWorker:28613] exit with status 64000
+2016-10-17 15:13:02 worker[SubOrderPushWorker:28611] exit with status 64000
+2016-10-17 15:15:06 WORKER EXIT UNEXPECTED 
+2016-10-17 15:15:06 worker[SubOrderPushWorker:28643] exit with status 64000
+2016-10-17 15:15:06 WORKER EXIT UNEXPECTED 
+2016-10-17 15:15:06 worker[SubOrderPushWorker:28644] exit with status 64000
+2016-10-17 15:17:11 WORKER EXIT UNEXPECTED 
+2016-10-17 15:17:11 WORKER EXIT UNEXPECTED 
+2016-10-17 15:17:11 worker[SubOrderPushWorker:28672] exit with status 64000
+2016-10-17 15:17:11 worker[SubOrderPushWorker:28674] exit with status 64000
+2016-10-17 15:19:16 WORKER EXIT UNEXPECTED 
+2016-10-17 15:19:16 WORKER EXIT UNEXPECTED 
+2016-10-17 15:19:16 worker[SubOrderPushWorker:28709] exit with status 64000
+2016-10-17 15:19:16 worker[SubOrderPushWorker:28707] exit with status 64000
+2016-10-17 15:21:21 WORKER EXIT UNEXPECTED 
+2016-10-17 15:21:21 worker[SubOrderPushWorker:28738] exit with status 64000
+2016-10-17 15:21:22 WORKER EXIT UNEXPECTED 
+2016-10-17 15:21:22 worker[SubOrderPushWorker:28736] exit with status 64000
+2016-10-17 15:23:26 WORKER EXIT UNEXPECTED 
+2016-10-17 15:23:26 worker[SubOrderPushWorker:28766] exit with status 64000
+2016-10-17 15:23:27 WORKER EXIT UNEXPECTED 
+2016-10-17 15:23:27 worker[SubOrderPushWorker:28769] exit with status 64000
+2016-10-17 15:25:31 WORKER EXIT UNEXPECTED 
+2016-10-17 15:25:31 worker[SubOrderPushWorker:28797] exit with status 64000
+2016-10-17 15:25:32 WORKER EXIT UNEXPECTED 
+2016-10-17 15:25:32 worker[SubOrderPushWorker:28800] exit with status 64000
+2016-10-17 15:27:36 WORKER EXIT UNEXPECTED 
+2016-10-17 15:27:36 worker[SubOrderPushWorker:28829] exit with status 64000
+2016-10-17 15:27:37 WORKER EXIT UNEXPECTED 
+2016-10-17 15:27:37 worker[SubOrderPushWorker:28830] exit with status 64000
+2016-10-17 15:29:41 WORKER EXIT UNEXPECTED 
+2016-10-17 15:29:41 worker[SubOrderPushWorker:28857] exit with status 64000
+2016-10-17 15:29:42 WORKER EXIT UNEXPECTED 
+2016-10-17 15:29:42 worker[SubOrderPushWorker:28859] exit with status 64000
+2016-10-17 15:31:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:31:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:31:47 worker[SubOrderPushWorker:28891] exit with status 64000
+2016-10-17 15:31:47 worker[SubOrderPushWorker:28889] exit with status 64000
+2016-10-17 15:33:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:33:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:33:52 worker[SubOrderPushWorker:28920] exit with status 64000
+2016-10-17 15:33:52 worker[SubOrderPushWorker:28919] exit with status 64000
+2016-10-17 15:38:01 WORKER EXIT UNEXPECTED 
+2016-10-17 15:38:01 worker[SubOrderPushWorker:28951] exit with status 64000
+2016-10-17 15:38:02 WORKER EXIT UNEXPECTED 
+2016-10-17 15:38:02 worker[SubOrderPushWorker:28950] exit with status 64000
+2016-10-17 15:40:07 WORKER EXIT UNEXPECTED 
+2016-10-17 15:40:07 WORKER EXIT UNEXPECTED 
+2016-10-17 15:40:07 worker[SubOrderPushWorker:29004] exit with status 64000
+2016-10-17 15:40:07 worker[SubOrderPushWorker:29006] exit with status 64000
+2016-10-17 15:42:12 WORKER EXIT UNEXPECTED 
+2016-10-17 15:42:12 WORKER EXIT UNEXPECTED 
+2016-10-17 15:42:12 worker[SubOrderPushWorker:29051] exit with status 64000
+2016-10-17 15:42:12 worker[SubOrderPushWorker:29049] exit with status 64000
+2016-10-17 15:44:17 WORKER EXIT UNEXPECTED 
+2016-10-17 15:44:17 worker[SubOrderPushWorker:29078] exit with status 64000
+2016-10-17 15:44:17 WORKER EXIT UNEXPECTED 
+2016-10-17 15:44:17 worker[SubOrderPushWorker:29077] exit with status 64000
+2016-10-17 15:46:22 WORKER EXIT UNEXPECTED 
+2016-10-17 15:46:22 WORKER EXIT UNEXPECTED 
+2016-10-17 15:46:22 worker[SubOrderPushWorker:29109] exit with status 64000
+2016-10-17 15:46:22 worker[SubOrderPushWorker:29108] exit with status 64000
+2016-10-17 15:54:42 WORKER EXIT UNEXPECTED 
+2016-10-17 15:54:42 WORKER EXIT UNEXPECTED 
+2016-10-17 15:54:42 worker[SubOrderPushWorker:29140] exit with status 64000
+2016-10-17 15:54:42 worker[SubOrderPushWorker:29141] exit with status 64000
+2016-10-17 15:56:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:56:47 worker[SubOrderPushWorker:29249] exit with status 64000
+2016-10-17 15:56:47 WORKER EXIT UNEXPECTED 
+2016-10-17 15:56:47 worker[SubOrderPushWorker:29250] exit with status 64000
+2016-10-17 15:58:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:58:52 WORKER EXIT UNEXPECTED 
+2016-10-17 15:58:52 worker[SubOrderPushWorker:29280] exit with status 64000
+2016-10-17 15:58:52 worker[SubOrderPushWorker:29277] exit with status 64000
+2016-10-17 16:05:07 WORKER EXIT UNEXPECTED 
+2016-10-17 16:05:07 worker[SubOrderPushWorker:29309] exit with status 64000
+2016-10-17 16:05:07 WORKER EXIT UNEXPECTED 
+2016-10-17 16:05:07 worker[SubOrderPushWorker:29310] exit with status 64000
+2016-10-17 16:09:17 WORKER EXIT UNEXPECTED 
+2016-10-17 16:09:17 WORKER EXIT UNEXPECTED 
+2016-10-17 16:09:17 worker[SubOrderPushWorker:29392] exit with status 64000
+2016-10-17 16:09:17 worker[SubOrderPushWorker:29394] exit with status 64000
+2016-10-17 16:11:22 WORKER EXIT UNEXPECTED 
+2016-10-17 16:11:22 WORKER EXIT UNEXPECTED 
+2016-10-17 16:11:22 worker[SubOrderPushWorker:29462] exit with status 64000
+2016-10-17 16:11:22 worker[SubOrderPushWorker:29463] exit with status 64000
+2016-10-17 16:13:27 WORKER EXIT UNEXPECTED 
+2016-10-17 16:13:27 worker[SubOrderPushWorker:29491] exit with status 64000
+2016-10-17 16:15:32 WORKER EXIT UNEXPECTED 
+2016-10-17 16:15:32 worker[SubOrderPushWorker:29521] exit with status 64000
+2016-10-17 16:17:36 WORKER EXIT UNEXPECTED 
+2016-10-17 16:17:36 worker[SubOrderPushWorker:29549] exit with status 64000
+2016-10-17 16:17:37 WORKER EXIT UNEXPECTED 
+2016-10-17 16:17:37 worker[SubOrderPushWorker:29490] exit with status 64000
+2016-10-17 16:19:42 WORKER EXIT UNEXPECTED 
+2016-10-17 16:19:42 worker[SubOrderPushWorker:29581] exit with status 64000
+2016-10-17 16:19:42 WORKER EXIT UNEXPECTED 
+2016-10-17 16:19:42 worker[SubOrderPushWorker:29582] exit with status 64000
+2016-10-17 16:21:47 WORKER EXIT UNEXPECTED 
+2016-10-17 16:21:47 worker[SubOrderPushWorker:29610] exit with status 64000
+2016-10-17 16:23:52 WORKER EXIT UNEXPECTED 
+2016-10-17 16:23:52 WORKER EXIT UNEXPECTED 
+2016-10-17 16:23:52 worker[SubOrderPushWorker:29640] exit with status 64000
+2016-10-17 16:23:52 worker[SubOrderPushWorker:29612] exit with status 64000
+2016-10-17 16:28:02 WORKER EXIT UNEXPECTED 
+2016-10-17 16:28:03 worker[SubOrderPushWorker:29668] exit with status 64000
+2016-10-17 16:30:08 WORKER EXIT UNEXPECTED 
+2016-10-17 16:30:08 WORKER EXIT UNEXPECTED 
+2016-10-17 16:30:08 worker[SubOrderPushWorker:29722] exit with status 64000
+2016-10-17 16:30:08 worker[SubOrderPushWorker:29667] exit with status 64000
+2016-10-17 16:34:18 WORKER EXIT UNEXPECTED 
+2016-10-17 16:34:18 WORKER EXIT UNEXPECTED 
+2016-10-17 16:34:18 worker[SubOrderPushWorker:29752] exit with status 64000
+2016-10-17 16:34:18 worker[SubOrderPushWorker:29753] exit with status 64000
+2016-10-17 16:36:21 WORKER EXIT UNEXPECTED 
+2016-10-17 16:36:21 WORKER EXIT UNEXPECTED 
+2016-10-17 16:36:21 worker[SubOrderPushWorker:29806] exit with status 64000
+2016-10-17 16:36:21 worker[SubOrderPushWorker:29807] exit with status 64000
+2016-10-17 16:38:28 WORKER EXIT UNEXPECTED 
+2016-10-17 16:38:28 worker[SubOrderPushWorker:29836] exit with status 64000
+2016-10-17 16:44:43 WORKER EXIT UNEXPECTED 
+2016-10-17 16:44:43 WORKER EXIT UNEXPECTED 
+2016-10-17 16:44:43 worker[SubOrderPushWorker:29837] exit with status 64000
+2016-10-17 16:44:43 worker[SubOrderPushWorker:29867] exit with status 64000
+2016-10-17 16:55:08 WORKER EXIT UNEXPECTED 
+2016-10-17 16:55:08 worker[SubOrderPushWorker:29962] exit with status 64000
+2016-10-17 16:57:12 WORKER EXIT UNEXPECTED 
+2016-10-17 16:57:12 worker[SubOrderPushWorker:30096] exit with status 64000
+2016-10-17 16:57:13 WORKER EXIT UNEXPECTED 
+2016-10-17 16:57:13 worker[SubOrderPushWorker:29963] exit with status 64000
+2016-10-17 16:59:18 WORKER EXIT UNEXPECTED 
+2016-10-17 16:59:18 worker[SubOrderPushWorker:30124] exit with status 64000
+2016-10-17 17:01:23 WORKER EXIT UNEXPECTED 
+2016-10-17 17:01:23 WORKER EXIT UNEXPECTED 
+2016-10-17 17:01:23 worker[SubOrderPushWorker:30125] exit with status 64000
+2016-10-17 17:01:23 worker[SubOrderPushWorker:30153] exit with status 64000
+2016-10-17 17:05:33 WORKER EXIT UNEXPECTED 
+2016-10-17 17:05:33 worker[SubOrderPushWorker:30182] exit with status 64000
+2016-10-17 17:07:37 WORKER EXIT UNEXPECTED 
+2016-10-17 17:07:37 worker[SubOrderPushWorker:30236] exit with status 64000
+2016-10-17 17:07:38 WORKER EXIT UNEXPECTED 
+2016-10-17 17:07:38 worker[SubOrderPushWorker:30183] exit with status 64000
+2016-10-17 17:09:43 WORKER EXIT UNEXPECTED 
+2016-10-17 17:09:43 WORKER EXIT UNEXPECTED 
+2016-10-17 17:09:43 worker[SubOrderPushWorker:30262] exit with status 64000
+2016-10-17 17:09:43 worker[SubOrderPushWorker:30263] exit with status 64000
+2016-10-17 17:11:48 WORKER EXIT UNEXPECTED 
+2016-10-17 17:11:48 WORKER EXIT UNEXPECTED 
+2016-10-17 17:11:48 worker[SubOrderPushWorker:30307] exit with status 64000
+2016-10-17 17:11:48 worker[SubOrderPushWorker:30308] exit with status 64000
+2016-10-17 17:13:53 WORKER EXIT UNEXPECTED 
+2016-10-17 17:13:53 WORKER EXIT UNEXPECTED 
+2016-10-17 17:13:53 worker[SubOrderPushWorker:30335] exit with status 64000
+2016-10-17 17:13:53 worker[SubOrderPushWorker:30337] exit with status 64000
+2016-10-17 17:15:58 WORKER EXIT UNEXPECTED 
+2016-10-17 17:15:58 worker[SubOrderPushWorker:30366] exit with status 64000
+2016-10-17 17:18:03 WORKER EXIT UNEXPECTED 
+2016-10-17 17:18:03 WORKER EXIT UNEXPECTED 
+2016-10-17 17:18:03 worker[SubOrderPushWorker:30395] exit with status 64000
+2016-10-17 17:18:03 worker[SubOrderPushWorker:30367] exit with status 64000
+2016-10-17 17:20:08 WORKER EXIT UNEXPECTED 
+2016-10-17 17:20:08 WORKER EXIT UNEXPECTED 
+2016-10-17 17:20:08 worker[SubOrderPushWorker:30425] exit with status 64000
+2016-10-17 17:20:08 worker[SubOrderPushWorker:30428] exit with status 64000
+2016-10-17 17:26:23 WORKER EXIT UNEXPECTED 
+2016-10-17 17:26:23 worker[SubOrderPushWorker:30458] exit with status 64000
+2016-10-17 17:26:38 WORKER EXIT UNEXPECTED 
+2016-10-17 17:26:38 worker[SubOrderPushWorker:30537] exit with status 64000
+2016-10-17 17:28:28 WORKER EXIT UNEXPECTED 
+2016-10-17 17:28:28 worker[SubOrderPushWorker:30459] exit with status 64000
+2016-10-17 17:30:32 WORKER EXIT UNEXPECTED 
+2016-10-17 17:30:32 worker[SubOrderPushWorker:30566] exit with status 64000
+2016-10-17 17:38:52 WORKER EXIT UNEXPECTED 
+2016-10-17 17:38:52 WORKER EXIT UNEXPECTED 
+2016-10-17 17:38:52 worker[SubOrderPushWorker:30592] exit with status 64000
+2016-10-17 17:38:52 worker[SubOrderPushWorker:30542] exit with status 64000
+2016-10-17 17:40:58 WORKER EXIT UNEXPECTED 
+2016-10-17 17:40:58 worker[SubOrderPushWorker:30700] exit with status 64000
+2016-10-17 17:43:03 WORKER EXIT UNEXPECTED 
+2016-10-17 17:43:03 WORKER EXIT UNEXPECTED 
+2016-10-17 17:43:03 worker[SubOrderPushWorker:30743] exit with status 64000
+2016-10-17 17:43:03 worker[SubOrderPushWorker:30697] exit with status 64000
+2016-10-17 17:47:13 WORKER EXIT UNEXPECTED 
+2016-10-17 17:47:13 worker[SubOrderPushWorker:30771] exit with status 64000
+2016-10-17 17:51:23 WORKER EXIT UNEXPECTED 
+2016-10-17 17:51:23 WORKER EXIT UNEXPECTED 
+2016-10-17 17:51:23 worker[SubOrderPushWorker:30827] exit with status 64000
+2016-10-17 17:51:23 worker[SubOrderPushWorker:30774] exit with status 64000
+2016-10-17 17:53:28 WORKER EXIT UNEXPECTED 
+2016-10-17 17:53:28 worker[SubOrderPushWorker:30883] exit with status 64000
+2016-10-17 17:57:38 WORKER EXIT UNEXPECTED 
+2016-10-17 17:57:38 worker[SubOrderPushWorker:30911] exit with status 64000
+2016-10-17 18:01:48 WORKER EXIT UNEXPECTED 
+2016-10-17 18:01:48 worker[SubOrderPushWorker:30882] exit with status 64000
+2016-10-17 18:03:53 WORKER EXIT UNEXPECTED 
+2016-10-17 18:03:53 WORKER EXIT UNEXPECTED 
+2016-10-17 18:03:53 worker[SubOrderPushWorker:30965] exit with status 64000
+2016-10-17 18:03:53 worker[SubOrderPushWorker:31020] exit with status 64000
+2016-10-17 18:08:03 WORKER EXIT UNEXPECTED 
+2016-10-17 18:08:03 worker[SubOrderPushWorker:31049] exit with status 64000
+2016-10-17 18:10:08 WORKER EXIT UNEXPECTED 
+2016-10-17 18:10:08 worker[SubOrderPushWorker:31051] exit with status 64000
+2016-10-17 18:16:23 WORKER EXIT UNEXPECTED 
+2016-10-17 18:16:23 worker[SubOrderPushWorker:31147] exit with status 64000
+2016-10-17 18:16:23 WORKER EXIT UNEXPECTED 
+2016-10-17 18:16:23 worker[SubOrderPushWorker:31105] exit with status 64000
+2016-10-17 18:18:19 WORKER EXIT UNEXPECTED 
+2016-10-17 18:18:19 worker[SubOrderPushWorker:31226] exit with status 64000
+2016-10-17 18:18:28 WORKER EXIT UNEXPECTED 
+2016-10-17 18:18:28 worker[SubOrderPushWorker:31257] exit with status 64000
+2016-10-17 18:20:32 WORKER EXIT UNEXPECTED 
+2016-10-17 18:20:32 worker[SubOrderPushWorker:31262] exit with status 64000
+2016-10-17 18:22:38 WORKER EXIT UNEXPECTED 
+2016-10-17 18:22:38 WORKER EXIT UNEXPECTED 
+2016-10-17 18:22:38 worker[SubOrderPushWorker:31228] exit with status 64000
+2016-10-17 18:22:38 worker[SubOrderPushWorker:31289] exit with status 64000
+2016-10-17 18:33:03 WORKER EXIT UNEXPECTED 
+2016-10-17 18:33:03 WORKER EXIT UNEXPECTED 
+2016-10-17 18:33:03 worker[SubOrderPushWorker:31319] exit with status 64000
+2016-10-17 18:33:03 worker[SubOrderPushWorker:31318] exit with status 64000
+2016-10-17 18:35:08 WORKER EXIT UNEXPECTED 
+2016-10-17 18:35:08 WORKER EXIT UNEXPECTED 
+2016-10-17 18:35:08 worker[SubOrderPushWorker:31462] exit with status 64000
+2016-10-17 18:35:08 worker[SubOrderPushWorker:31463] exit with status 64000
+2016-10-17 18:43:28 WORKER EXIT UNEXPECTED 
+2016-10-17 18:43:28 WORKER EXIT UNEXPECTED 
+2016-10-17 18:43:28 worker[SubOrderPushWorker:31496] exit with status 64000
+2016-10-17 18:43:29 worker[SubOrderPushWorker:31493] exit with status 64000
+2016-10-17 18:47:38 WORKER EXIT UNEXPECTED 
+2016-10-17 18:47:38 WORKER EXIT UNEXPECTED 
+2016-10-17 18:47:38 worker[SubOrderPushWorker:31617] exit with status 64000
+2016-10-17 18:47:39 worker[SubOrderPushWorker:31620] exit with status 64000
+2016-10-17 18:49:43 WORKER EXIT UNEXPECTED 
+2016-10-17 18:49:43 worker[SubOrderPushWorker:31673] exit with status 64000
+2016-10-17 18:51:48 WORKER EXIT UNEXPECTED 
+2016-10-17 18:51:48 WORKER EXIT UNEXPECTED 
+2016-10-17 18:51:49 worker[SubOrderPushWorker:31704] exit with status 64000
+2016-10-17 18:51:49 worker[SubOrderPushWorker:31674] exit with status 64000
+2016-10-17 18:53:53 WORKER EXIT UNEXPECTED 
+2016-10-17 18:53:54 worker[SubOrderPushWorker:31731] exit with status 64000
+2016-10-17 18:58:04 WORKER EXIT UNEXPECTED 
+2016-10-17 18:58:04 WORKER EXIT UNEXPECTED 
+2016-10-17 18:58:04 worker[SubOrderPushWorker:31730] exit with status 64000
+2016-10-17 18:58:04 worker[SubOrderPushWorker:31762] exit with status 64000
+2016-10-17 19:00:09 WORKER EXIT UNEXPECTED 
+2016-10-17 19:00:09 WORKER EXIT UNEXPECTED 
+2016-10-17 19:00:09 worker[SubOrderPushWorker:31818] exit with status 64000
+2016-10-17 19:00:09 worker[SubOrderPushWorker:31819] exit with status 64000
+2016-10-17 19:02:14 WORKER EXIT UNEXPECTED 
+2016-10-17 19:02:14 worker[SubOrderPushWorker:31847] exit with status 64000
+2016-10-17 19:04:19 WORKER EXIT UNEXPECTED 
+2016-10-17 19:04:19 WORKER EXIT UNEXPECTED 
+2016-10-17 19:04:19 worker[SubOrderPushWorker:31846] exit with status 64000
+2016-10-17 19:04:19 worker[SubOrderPushWorker:31875] exit with status 64000
+2016-10-17 19:08:29 WORKER EXIT UNEXPECTED 
+2016-10-17 19:08:29 WORKER EXIT UNEXPECTED 
+2016-10-17 19:08:29 worker[SubOrderPushWorker:31903] exit with status 64000
+2016-10-17 19:08:29 worker[SubOrderPushWorker:31904] exit with status 64000
+2016-10-17 19:10:34 WORKER EXIT UNEXPECTED 
+2016-10-17 19:10:34 WORKER EXIT UNEXPECTED 
+2016-10-17 19:10:34 worker[SubOrderPushWorker:31964] exit with status 64000
+2016-10-17 19:10:34 worker[SubOrderPushWorker:31962] exit with status 64000
+2016-10-17 19:12:39 WORKER EXIT UNEXPECTED 
+2016-10-17 19:12:39 worker[SubOrderPushWorker:32006] exit with status 64000
+2016-10-18 10:32:03 WORKER EXIT UNEXPECTED 
+2016-10-18 10:32:03 WORKER EXIT UNEXPECTED 
+2016-10-18 10:32:03 worker[SubOrderPushWorker:32035] exit with status 64000
+2016-10-18 10:32:03 worker[SubOrderPushWorker:32004] exit with status 64000
+2016-10-19 21:25:49 WORKER EXIT UNEXPECTED 
+2016-10-19 21:25:49 worker[SubOrderPushWorker:1395] exit with status 64000
+2016-10-19 21:33:34 WORKER EXIT UNEXPECTED 
+2016-10-19 21:33:36 worker[SubOrderPushWorker:32311] exit with status 64000
+2016-10-20 12:41:22 WORKER EXIT UNEXPECTED 
+2016-10-20 12:41:24 WORKER EXIT UNEXPECTED 
+2016-10-20 12:41:24 worker[SubOrderPushWorker:32409] exit with status 64000
+2016-10-20 12:41:24 worker[SubOrderPushWorker:1396] exit with status 64000
+2016-10-20 14:23:21 WORKER EXIT UNEXPECTED 
+2016-10-20 14:23:21 worker[SubOrderPushWorker:3101] exit with status 64000
+2016-10-21 08:51:46 WORKER EXIT UNEXPECTED 
+2016-10-21 08:51:47 worker[SubOrderPushWorker:3100] exit with status 64000
+2016-10-21 08:51:47 WORKER EXIT UNEXPECTED 
+2016-10-21 08:51:48 worker[SubOrderPushWorker:4126] exit with status 64000
+2016-10-21 09:05:10 WORKER EXIT UNEXPECTED 
+2016-10-21 09:05:10 worker[SubOrderPushWorker:12845] exit with status 64000
+2016-10-21 09:06:10 WORKER EXIT UNEXPECTED 
+2016-10-21 09:06:10 worker[SubOrderPushWorker:12831] exit with status 64000
+2016-10-21 13:08:01 WORKER EXIT UNEXPECTED 
+2016-10-21 13:08:01 worker[SubOrderPushWorker:13013] exit with status 64000
+2016-10-21 15:07:10 WORKER EXIT UNEXPECTED 
+2016-10-21 15:07:10 worker[SubOrderPushWorker:15962] exit with status 64000
+2016-10-21 16:39:29 Workerman[cli.php] status 
+2016-10-21 16:42:22 Workerman[cli.php] status 
+2016-10-21 17:59:13 WORKER EXIT UNEXPECTED 
+2016-10-21 17:59:13 worker[SubOrderPushWorker:17974] exit with status 64000
+2016-10-21 19:11:04 WORKER EXIT UNEXPECTED 
+2016-10-21 19:11:04 worker[SubOrderPushWorker:13028] exit with status 64000
+2016-10-24 08:55:56 WORKER EXIT UNEXPECTED 
+2016-10-24 08:55:56 worker[SubOrderPushWorker:20601] exit with status 64000
+2016-10-24 08:55:56 WORKER EXIT UNEXPECTED 
+2016-10-24 08:55:56 worker[SubOrderPushWorker:21546] exit with status 64000
+2016-10-24 08:55:58 WORKER EXIT UNEXPECTED 
+2016-10-24 08:55:58 worker[SubOrderPushWorker:21549] exit with status 64000
+2016-10-25 08:52:39 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:39 worker[SubOrderPushWorker:21550] exit with status 64000
+2016-10-25 08:52:41 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:41 worker[SubOrderPushWorker:30923] exit with status 64000
+2016-10-25 08:52:42 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:42 worker[SubOrderPushWorker:21552] exit with status 64000
+2016-10-25 08:52:43 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:43 worker[SubOrderPushWorker:30926] exit with status 64000
+2016-10-25 08:52:44 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:44 worker[SubOrderPushWorker:30927] exit with status 64000
+2016-10-25 08:52:46 WORKER EXIT UNEXPECTED 
+2016-10-25 08:52:46 worker[SubOrderPushWorker:30932] exit with status 64000
+2016-10-26 11:11:30 WORKER EXIT UNEXPECTED 
+2016-10-26 11:11:30 worker[SubOrderPushWorker:30944] exit with status 64000
+2016-10-26 12:36:06 WORKER EXIT UNEXPECTED 
+2016-10-26 12:36:06 WORKER EXIT UNEXPECTED 
+2016-10-26 12:36:06 worker[SubOrderPushWorker:10742] exit with status 64000
+2016-10-26 12:36:06 worker[SubOrderPushWorker:30928] exit with status 64000
+2016-10-26 13:32:03 WORKER EXIT UNEXPECTED 
+2016-10-26 13:32:03 WORKER EXIT UNEXPECTED 
+2016-10-26 13:32:03 worker[SubOrderPushWorker:11934] exit with status 64000
+2016-10-26 13:32:03 worker[SubOrderPushWorker:11935] exit with status 64000
+2016-10-26 13:34:07 WORKER EXIT UNEXPECTED 
+2016-10-26 13:34:07 WORKER EXIT UNEXPECTED 
+2016-10-26 13:34:07 worker[SubOrderPushWorker:11951] exit with status 64000
+2016-10-26 13:34:07 worker[SubOrderPushWorker:11953] exit with status 64000
+2016-10-26 13:38:18 WORKER EXIT UNEXPECTED 
+2016-10-26 13:38:18 WORKER EXIT UNEXPECTED 
+2016-10-26 13:38:18 worker[SubOrderPushWorker:11980] exit with status 64000
+2016-10-26 13:38:18 worker[SubOrderPushWorker:11979] exit with status 64000
+2016-10-26 13:40:23 WORKER EXIT UNEXPECTED 
+2016-10-26 13:40:23 worker[SubOrderPushWorker:12039] exit with status 64000
+2016-10-26 13:48:43 WORKER EXIT UNEXPECTED 
+2016-10-26 13:48:43 WORKER EXIT UNEXPECTED 
+2016-10-26 13:48:43 worker[SubOrderPushWorker:12083] exit with status 64000
+2016-10-26 13:48:43 worker[SubOrderPushWorker:12038] exit with status 64000
+2016-10-26 13:50:48 WORKER EXIT UNEXPECTED 
+2016-10-26 13:50:48 WORKER EXIT UNEXPECTED 
+2016-10-26 13:50:48 worker[SubOrderPushWorker:12195] exit with status 64000
+2016-10-26 13:50:48 worker[SubOrderPushWorker:12194] exit with status 64000
+2016-10-26 13:54:57 WORKER EXIT UNEXPECTED 
+2016-10-26 13:54:57 WORKER EXIT UNEXPECTED 
+2016-10-26 13:54:57 worker[SubOrderPushWorker:12223] exit with status 64000
+2016-10-26 13:54:57 worker[SubOrderPushWorker:12222] exit with status 64000
+2016-10-26 13:57:03 WORKER EXIT UNEXPECTED 
+2016-10-26 13:57:03 worker[SubOrderPushWorker:12283] exit with status 64000
+2016-10-26 13:59:08 WORKER EXIT UNEXPECTED 
+2016-10-26 13:59:10 worker[SubOrderPushWorker:12284] exit with status 64000
+2016-10-26 14:01:14 WORKER EXIT UNEXPECTED 
+2016-10-26 14:01:14 WORKER EXIT UNEXPECTED 
+2016-10-26 14:01:14 worker[SubOrderPushWorker:12347] exit with status 64000
+2016-10-26 14:01:14 worker[SubOrderPushWorker:12318] exit with status 64000
+2016-10-26 14:03:18 WORKER EXIT UNEXPECTED 
+2016-10-26 14:03:18 WORKER EXIT UNEXPECTED 
+2016-10-26 14:03:18 worker[SubOrderPushWorker:12382] exit with status 64000
+2016-10-26 14:03:18 worker[SubOrderPushWorker:12380] exit with status 64000
+2016-10-26 14:05:24 WORKER EXIT UNEXPECTED 
+2016-10-26 14:05:24 WORKER EXIT UNEXPECTED 
+2016-10-26 14:05:24 worker[SubOrderPushWorker:12410] exit with status 64000
+2016-10-26 14:05:24 worker[SubOrderPushWorker:12411] exit with status 64000
+2016-10-26 14:11:39 WORKER EXIT UNEXPECTED 
+2016-10-26 14:11:39 WORKER EXIT UNEXPECTED 
+2016-10-26 14:11:39 worker[SubOrderPushWorker:12446] exit with status 64000
+2016-10-26 14:11:39 worker[SubOrderPushWorker:12443] exit with status 64000
+2016-10-26 14:13:44 WORKER EXIT UNEXPECTED 
+2016-10-26 14:13:44 WORKER EXIT UNEXPECTED 
+2016-10-26 14:13:44 worker[SubOrderPushWorker:12547] exit with status 64000
+2016-10-26 14:13:44 worker[SubOrderPushWorker:12548] exit with status 64000
+2016-10-26 14:15:49 WORKER EXIT UNEXPECTED 
+2016-10-26 14:15:49 worker[SubOrderPushWorker:12580] exit with status 64000
+2016-10-26 14:17:54 WORKER EXIT UNEXPECTED 
+2016-10-26 14:17:54 WORKER EXIT UNEXPECTED 
+2016-10-26 14:17:55 worker[SubOrderPushWorker:12578] exit with status 64000
+2016-10-26 14:17:55 worker[SubOrderPushWorker:12607] exit with status 64000
+2016-10-26 14:22:05 WORKER EXIT UNEXPECTED 
+2016-10-26 14:22:05 worker[SubOrderPushWorker:12639] exit with status 64000
+2016-10-26 14:22:05 WORKER EXIT UNEXPECTED 
+2016-10-26 14:22:05 worker[SubOrderPushWorker:12640] exit with status 64000
+2016-10-26 14:24:10 WORKER EXIT UNEXPECTED 
+2016-10-26 14:24:10 WORKER EXIT UNEXPECTED 
+2016-10-26 14:24:10 worker[SubOrderPushWorker:12695] exit with status 64000
+2016-10-26 14:24:10 worker[SubOrderPushWorker:12694] exit with status 64000
+2016-10-26 14:26:15 WORKER EXIT UNEXPECTED 
+2016-10-26 14:26:15 WORKER EXIT UNEXPECTED 
+2016-10-26 14:26:15 worker[SubOrderPushWorker:12726] exit with status 64000
+2016-10-26 14:26:15 worker[SubOrderPushWorker:12725] exit with status 64000
+2016-10-26 14:28:20 WORKER EXIT UNEXPECTED 
+2016-10-26 14:28:20 WORKER EXIT UNEXPECTED 
+2016-10-26 14:28:20 worker[SubOrderPushWorker:12884] exit with status 64000
+2016-10-26 14:28:20 worker[SubOrderPushWorker:12883] exit with status 64000
+2016-10-26 14:34:35 WORKER EXIT UNEXPECTED 
+2016-10-26 14:34:35 WORKER EXIT UNEXPECTED 
+2016-10-26 14:34:35 worker[SubOrderPushWorker:12914] exit with status 64000
+2016-10-26 14:34:35 worker[SubOrderPushWorker:12911] exit with status 64000
+2016-10-26 14:38:45 WORKER EXIT UNEXPECTED 
+2016-10-26 14:38:45 worker[SubOrderPushWorker:12997] exit with status 64000
+2016-10-26 14:38:45 WORKER EXIT UNEXPECTED 
+2016-10-26 14:38:45 worker[SubOrderPushWorker:12998] exit with status 64000
+2016-10-26 14:40:50 WORKER EXIT UNEXPECTED 
+2016-10-26 14:40:50 WORKER EXIT UNEXPECTED 
+2016-10-26 14:40:50 worker[SubOrderPushWorker:13052] exit with status 64000
+2016-10-26 14:40:50 worker[SubOrderPushWorker:13055] exit with status 64000
+2016-10-26 14:42:55 WORKER EXIT UNEXPECTED 
+2016-10-26 14:42:55 WORKER EXIT UNEXPECTED 
+2016-10-26 14:42:56 worker[SubOrderPushWorker:13095] exit with status 64000
+2016-10-26 14:42:56 worker[SubOrderPushWorker:13096] exit with status 64000
+2016-10-26 14:47:06 WORKER EXIT UNEXPECTED 
+2016-10-26 14:47:06 WORKER EXIT UNEXPECTED 
+2016-10-26 14:47:06 worker[SubOrderPushWorker:13127] exit with status 64000
+2016-10-26 14:47:06 worker[SubOrderPushWorker:13126] exit with status 64000
+2016-10-26 14:51:16 WORKER EXIT UNEXPECTED 
+2016-10-26 14:51:16 WORKER EXIT UNEXPECTED 
+2016-10-26 14:51:16 worker[SubOrderPushWorker:13184] exit with status 64000
+2016-10-26 14:51:16 worker[SubOrderPushWorker:13183] exit with status 64000
+2016-10-26 14:57:31 WORKER EXIT UNEXPECTED 
+2016-10-26 14:57:31 worker[SubOrderPushWorker:13242] exit with status 64000
+2016-10-26 14:59:35 WORKER EXIT UNEXPECTED 
+2016-10-26 14:59:35 worker[SubOrderPushWorker:13322] exit with status 64000
+2016-10-26 14:59:36 WORKER EXIT UNEXPECTED 
+2016-10-26 14:59:36 worker[SubOrderPushWorker:13241] exit with status 64000
+2016-10-26 15:03:46 WORKER EXIT UNEXPECTED 
+2016-10-26 15:03:47 worker[SubOrderPushWorker:13348] exit with status 64000
+2016-10-26 15:05:50 WORKER EXIT UNEXPECTED 
+2016-10-26 15:05:50 worker[SubOrderPushWorker:13406] exit with status 64000
+2016-10-26 15:05:52 WORKER EXIT UNEXPECTED 
+2016-10-26 15:05:52 worker[SubOrderPushWorker:13349] exit with status 64000
+2016-10-26 15:07:57 WORKER EXIT UNEXPECTED 
+2016-10-26 15:07:57 worker[SubOrderPushWorker:13434] exit with status 64000
+2016-10-26 15:10:02 WORKER EXIT UNEXPECTED 
+2016-10-26 15:10:02 worker[SubOrderPushWorker:13435] exit with status 64000
+2016-10-26 15:12:06 WORKER EXIT UNEXPECTED 
+2016-10-26 15:12:06 worker[SubOrderPushWorker:13505] exit with status 64000
+2016-10-26 15:12:07 WORKER EXIT UNEXPECTED 
+2016-10-26 15:12:07 worker[SubOrderPushWorker:13463] exit with status 64000
+2016-10-26 15:14:12 WORKER EXIT UNEXPECTED 
+2016-10-26 15:14:12 worker[SubOrderPushWorker:13531] exit with status 64000
+2016-10-26 15:22:32 WORKER EXIT UNEXPECTED 
+2016-10-26 15:22:32 WORKER EXIT UNEXPECTED 
+2016-10-26 15:22:32 worker[SubOrderPushWorker:13533] exit with status 64000
+2016-10-26 15:22:32 worker[SubOrderPushWorker:13572] exit with status 64000
+2016-10-26 15:26:42 WORKER EXIT UNEXPECTED 
+2016-10-26 15:26:42 worker[SubOrderPushWorker:13692] exit with status 64000
+2016-10-26 15:26:42 WORKER EXIT UNEXPECTED 
+2016-10-26 15:26:42 worker[SubOrderPushWorker:13690] exit with status 64000
+2016-10-26 15:28:47 WORKER EXIT UNEXPECTED 
+2016-10-26 15:28:47 WORKER EXIT UNEXPECTED 
+2016-10-26 15:28:48 worker[SubOrderPushWorker:13748] exit with status 64000
+2016-10-26 15:28:48 worker[SubOrderPushWorker:13745] exit with status 64000
+2016-10-26 15:30:53 WORKER EXIT UNEXPECTED 
+2016-10-26 15:30:53 WORKER EXIT UNEXPECTED 
+2016-10-26 15:30:53 worker[SubOrderPushWorker:13779] exit with status 64000
+2016-10-26 15:30:53 worker[SubOrderPushWorker:13782] exit with status 64000
+2016-10-26 15:32:56 WORKER EXIT UNEXPECTED 
+2016-10-26 15:32:56 WORKER EXIT UNEXPECTED 
+2016-10-26 15:32:56 worker[SubOrderPushWorker:13809] exit with status 64000
+2016-10-26 15:32:56 worker[SubOrderPushWorker:13810] exit with status 64000
+2016-10-26 15:35:03 WORKER EXIT UNEXPECTED 
+2016-10-26 15:35:03 WORKER EXIT UNEXPECTED 
+2016-10-26 15:35:03 worker[SubOrderPushWorker:13845] exit with status 64000
+2016-10-26 15:35:03 worker[SubOrderPushWorker:13847] exit with status 64000
+2016-10-26 15:37:06 WORKER EXIT UNEXPECTED 
+2016-10-26 15:37:06 WORKER EXIT UNEXPECTED 
+2016-10-26 15:37:06 worker[SubOrderPushWorker:13874] exit with status 64000
+2016-10-26 15:37:06 worker[SubOrderPushWorker:13875] exit with status 64000
+2016-10-26 15:39:13 WORKER EXIT UNEXPECTED 
+2016-10-26 15:39:13 worker[SubOrderPushWorker:13911] exit with status 64000
+2016-10-26 15:39:32 WORKER EXIT UNEXPECTED 
+2016-10-26 15:39:32 worker[SubOrderPushWorker:13954] exit with status 64000
+2016-10-26 15:47:34 WORKER EXIT UNEXPECTED 
+2016-10-26 15:47:34 worker[SubOrderPushWorker:13962] exit with status 64000
+2016-10-26 15:51:44 WORKER EXIT UNEXPECTED 
+2016-10-26 15:51:44 WORKER EXIT UNEXPECTED 
+2016-10-26 15:51:44 worker[SubOrderPushWorker:14073] exit with status 64000
+2016-10-26 15:51:44 worker[SubOrderPushWorker:13910] exit with status 64000
+2016-10-26 15:55:54 WORKER EXIT UNEXPECTED 
+2016-10-26 15:55:54 WORKER EXIT UNEXPECTED 
+2016-10-26 15:55:54 worker[SubOrderPushWorker:14130] exit with status 64000
+2016-10-26 15:55:54 worker[SubOrderPushWorker:14129] exit with status 64000
+2016-10-26 16:00:04 WORKER EXIT UNEXPECTED 
+2016-10-26 16:00:04 WORKER EXIT UNEXPECTED 
+2016-10-26 16:00:04 worker[SubOrderPushWorker:14222] exit with status 64000
+2016-10-26 16:00:04 worker[SubOrderPushWorker:14223] exit with status 64000
+2016-10-26 16:06:19 WORKER EXIT UNEXPECTED 
+2016-10-26 16:06:20 worker[SubOrderPushWorker:14298] exit with status 64000
+2016-10-26 16:10:30 WORKER EXIT UNEXPECTED 
+2016-10-26 16:10:30 worker[SubOrderPushWorker:14392] exit with status 64000
+2016-10-26 16:12:34 WORKER EXIT UNEXPECTED 
+2016-10-26 16:12:35 WORKER EXIT UNEXPECTED 
+2016-10-26 16:12:35 worker[SubOrderPushWorker:14297] exit with status 64000
+2016-10-26 16:12:35 worker[SubOrderPushWorker:14460] exit with status 64000
+2016-10-26 16:16:45 WORKER EXIT UNEXPECTED 
+2016-10-26 16:16:45 WORKER EXIT UNEXPECTED 
+2016-10-26 16:16:45 worker[SubOrderPushWorker:14493] exit with status 64000
+2016-10-26 16:16:45 worker[SubOrderPushWorker:14492] exit with status 64000
+2016-10-26 16:18:50 WORKER EXIT UNEXPECTED 
+2016-10-26 16:18:50 WORKER EXIT UNEXPECTED 
+2016-10-26 16:18:50 worker[SubOrderPushWorker:14564] exit with status 64000
+2016-10-26 16:18:50 worker[SubOrderPushWorker:14565] exit with status 64000
+2016-10-26 16:23:00 WORKER EXIT UNEXPECTED 
+2016-10-26 16:23:00 worker[SubOrderPushWorker:14595] exit with status 64000
+2016-10-26 16:23:45 WORKER EXIT UNEXPECTED 
+2016-10-26 16:23:45 worker[SubOrderPushWorker:14652] exit with status 64000
+2016-10-26 16:25:05 WORKER EXIT UNEXPECTED 
+2016-10-26 16:25:05 worker[SubOrderPushWorker:14598] exit with status 64000
+2016-10-26 16:27:08 WORKER EXIT UNEXPECTED 
+2016-10-26 16:27:08 worker[SubOrderPushWorker:14684] exit with status 64000
+2016-10-26 16:27:10 WORKER EXIT UNEXPECTED 
+2016-10-26 16:27:10 worker[SubOrderPushWorker:14663] exit with status 64000
+2016-10-26 16:29:15 WORKER EXIT UNEXPECTED 
+2016-10-26 16:29:15 WORKER EXIT UNEXPECTED 
+2016-10-26 16:29:15 worker[SubOrderPushWorker:14711] exit with status 64000
+2016-10-26 16:29:15 worker[SubOrderPushWorker:14710] exit with status 64000
+2016-10-26 16:33:24 WORKER EXIT UNEXPECTED 
+2016-10-26 16:33:24 worker[SubOrderPushWorker:14742] exit with status 64000
+2016-10-26 16:33:25 WORKER EXIT UNEXPECTED 
+2016-10-26 16:33:25 worker[SubOrderPushWorker:14743] exit with status 64000
+2016-10-26 16:39:39 WORKER EXIT UNEXPECTED 
+2016-10-26 16:39:39 WORKER EXIT UNEXPECTED 
+2016-10-26 16:39:39 worker[SubOrderPushWorker:14810] exit with status 64000
+2016-10-26 16:39:39 worker[SubOrderPushWorker:14809] exit with status 64000
+2016-10-26 16:41:45 WORKER EXIT UNEXPECTED 
+2016-10-26 16:41:45 worker[SubOrderPushWorker:14911] exit with status 64000
+2016-10-26 16:43:50 WORKER EXIT UNEXPECTED 
+2016-10-26 16:43:50 worker[SubOrderPushWorker:14912] exit with status 64000
+2016-10-26 16:45:55 WORKER EXIT UNEXPECTED 
+2016-10-26 16:45:55 WORKER EXIT UNEXPECTED 
+2016-10-26 16:45:55 worker[SubOrderPushWorker:14954] exit with status 64000
+2016-10-26 16:45:55 worker[SubOrderPushWorker:14981] exit with status 64000
+2016-10-26 16:47:59 WORKER EXIT UNEXPECTED 
+2016-10-26 16:47:59 WORKER EXIT UNEXPECTED 
+2016-10-26 16:47:59 worker[SubOrderPushWorker:15017] exit with status 64000
+2016-10-26 16:47:59 worker[SubOrderPushWorker:15016] exit with status 64000
+2016-10-26 16:52:10 WORKER EXIT UNEXPECTED 
+2016-10-26 16:52:10 WORKER EXIT UNEXPECTED 
+2016-10-26 16:52:10 worker[SubOrderPushWorker:15046] exit with status 64000
+2016-10-26 16:52:10 worker[SubOrderPushWorker:15044] exit with status 64000
+2016-10-26 16:54:15 WORKER EXIT UNEXPECTED 
+2016-10-26 16:54:15 worker[SubOrderPushWorker:15103] exit with status 64000
+2016-10-26 17:04:40 WORKER EXIT UNEXPECTED 
+2016-10-26 17:04:40 WORKER EXIT UNEXPECTED 
+2016-10-26 17:04:40 worker[SubOrderPushWorker:15102] exit with status 64000
+2016-10-26 17:04:40 worker[SubOrderPushWorker:15131] exit with status 64000
+2016-10-26 17:10:55 WORKER EXIT UNEXPECTED 
+2016-10-26 17:10:55 worker[SubOrderPushWorker:15336] exit with status 64000
+2016-10-26 17:13:00 WORKER EXIT UNEXPECTED 
+2016-10-26 17:13:00 WORKER EXIT UNEXPECTED 
+2016-10-26 17:13:00 worker[SubOrderPushWorker:15432] exit with status 64000
+2016-10-26 17:13:01 worker[SubOrderPushWorker:15338] exit with status 64000
+2016-10-26 17:15:05 WORKER EXIT UNEXPECTED 
+2016-10-26 17:15:05 worker[SubOrderPushWorker:15460] exit with status 64000
+2016-10-26 17:21:20 WORKER EXIT UNEXPECTED 
+2016-10-26 17:21:21 worker[SubOrderPushWorker:15489] exit with status 64000
+2016-10-26 17:27:36 WORKER EXIT UNEXPECTED 
+2016-10-26 17:27:36 worker[SubOrderPushWorker:15573] exit with status 64000
+2016-10-26 17:29:39 WORKER EXIT UNEXPECTED 
+2016-10-26 17:29:39 worker[SubOrderPushWorker:15651] exit with status 64000
+2016-10-26 17:33:51 WORKER EXIT UNEXPECTED 
+2016-10-26 17:33:51 WORKER EXIT UNEXPECTED 
+2016-10-26 17:33:51 worker[SubOrderPushWorker:15679] exit with status 64000
+2016-10-26 17:33:51 worker[SubOrderPushWorker:15462] exit with status 64000
+2016-10-26 17:38:01 WORKER EXIT UNEXPECTED 
+2016-10-26 17:38:01 worker[SubOrderPushWorker:15733] exit with status 64000
+2016-10-26 17:42:11 WORKER EXIT UNEXPECTED 
+2016-10-26 17:42:11 worker[SubOrderPushWorker:15734] exit with status 64000
+2016-10-26 17:44:16 WORKER EXIT UNEXPECTED 
+2016-10-26 17:44:16 worker[SubOrderPushWorker:15790] exit with status 64000
+2016-10-26 17:48:26 WORKER EXIT UNEXPECTED 
+2016-10-26 17:48:26 WORKER EXIT UNEXPECTED 
+2016-10-26 17:48:26 worker[SubOrderPushWorker:15886] exit with status 64000
+2016-10-26 17:48:26 worker[SubOrderPushWorker:15858] exit with status 64000
+2016-10-26 17:52:36 WORKER EXIT UNEXPECTED 
+2016-10-26 17:52:36 worker[SubOrderPushWorker:15942] exit with status 64000
+2016-10-26 17:54:41 WORKER EXIT UNEXPECTED 
+2016-10-26 17:54:41 WORKER EXIT UNEXPECTED 
+2016-10-26 17:54:41 worker[SubOrderPushWorker:15943] exit with status 64000
+2016-10-26 17:54:41 worker[SubOrderPushWorker:15998] exit with status 64000
+2016-10-26 18:00:56 WORKER EXIT UNEXPECTED 
+2016-10-26 18:00:56 worker[SubOrderPushWorker:16025] exit with status 64000
+2016-10-26 18:03:01 WORKER EXIT UNEXPECTED 
+2016-10-26 18:03:01 WORKER EXIT UNEXPECTED 
+2016-10-26 18:03:01 worker[SubOrderPushWorker:16026] exit with status 64000
+2016-10-26 18:03:01 worker[SubOrderPushWorker:16106] exit with status 64000
+2016-10-26 18:07:11 WORKER EXIT UNEXPECTED 
+2016-10-26 18:07:11 worker[SubOrderPushWorker:16133] exit with status 64000
+2016-10-26 18:11:21 WORKER EXIT UNEXPECTED 
+2016-10-26 18:11:21 worker[SubOrderPushWorker:16187] exit with status 64000
+2016-10-26 18:15:31 WORKER EXIT UNEXPECTED 
+2016-10-26 18:15:31 worker[SubOrderPushWorker:16255] exit with status 64000
+2016-10-26 18:19:41 WORKER EXIT UNEXPECTED 
+2016-10-26 18:19:41 WORKER EXIT UNEXPECTED 
+2016-10-26 18:19:41 worker[SubOrderPushWorker:16134] exit with status 64000
+2016-10-26 18:19:41 worker[SubOrderPushWorker:16309] exit with status 64000
+2016-10-26 18:23:51 WORKER EXIT UNEXPECTED 
+2016-10-26 18:23:51 worker[SubOrderPushWorker:16366] exit with status 64000
+2016-10-26 18:25:56 WORKER EXIT UNEXPECTED 
+2016-10-26 18:25:56 worker[SubOrderPushWorker:16365] exit with status 64000
+2016-10-26 18:28:01 WORKER EXIT UNEXPECTED 
+2016-10-26 18:28:01 WORKER EXIT UNEXPECTED 
+2016-10-26 18:28:01 worker[SubOrderPushWorker:16450] exit with status 64000
+2016-10-26 18:28:01 worker[SubOrderPushWorker:16421] exit with status 64000
+2016-10-26 18:32:11 WORKER EXIT UNEXPECTED 
+2016-10-26 18:32:11 worker[SubOrderPushWorker:16480] exit with status 64000
+2016-10-26 18:34:16 WORKER EXIT UNEXPECTED 
+2016-10-26 18:34:16 worker[SubOrderPushWorker:16478] exit with status 64000
+2016-10-26 18:35:54 WORKER EXIT UNEXPECTED 
+2016-10-26 18:35:54 worker[SubOrderPushWorker:16562] exit with status 64000
+2016-10-26 18:36:21 WORKER EXIT UNEXPECTED 
+2016-10-26 18:36:21 WORKER EXIT UNEXPECTED 
+2016-10-26 18:36:21 worker[SubOrderPushWorker:16533] exit with status 64000
+2016-10-26 18:36:21 worker[SubOrderPushWorker:16583] exit with status 64000
+2016-10-26 18:37:41 WORKER EXIT UNEXPECTED 
+2016-10-26 18:37:41 worker[SubOrderPushWorker:16591] exit with status 64000
+2016-10-27 12:32:29 WORKER EXIT UNEXPECTED 
+2016-10-27 12:32:31 WORKER EXIT UNEXPECTED 
+2016-10-27 12:32:32 worker[SubOrderPushWorker:16609] exit with status 64000
+2016-10-27 12:32:32 worker[SubOrderPushWorker:16589] exit with status 64000
+2016-10-27 17:48:12 WORKER EXIT UNEXPECTED 
+2016-10-27 17:48:12 worker[SubOrderPushWorker:21762] exit with status 64000
+2016-10-27 19:18:45 WORKER EXIT UNEXPECTED 
+2016-10-27 19:18:45 WORKER EXIT UNEXPECTED 
+2016-10-27 19:18:45 worker[SubOrderPushWorker:26106] exit with status 64000
+2016-10-27 19:18:45 worker[SubOrderPushWorker:21761] exit with status 64000
+2016-10-27 19:25:06 WORKER EXIT UNEXPECTED 
+2016-10-27 19:25:06 worker[SubOrderPushWorker:26753] exit with status 64000
+2016-10-28 13:08:27 WORKER EXIT UNEXPECTED 
+2016-10-28 13:08:27 worker[SubOrderPushWorker:26754] exit with status 64000
+2016-10-28 16:09:30 Workerman[cli.php] status 
+2016-10-28 16:09:52 Workerman[cli.php] status 
+2016-10-28 16:10:24 Workerman[cli.php] status 
+2016-10-28 16:12:37 Workerman[cli.php] status 
+2016-10-28 16:13:03 Workerman[cli.php] status 
+2016-10-28 16:16:02 Workerman[cli.php] status 
+2016-10-28 16:16:39 Workerman[cli.php] status 
+2016-10-28 16:18:21 Workerman[cli.php] status 
+2016-10-28 16:18:54 Workerman[cli.php] status 
+2016-10-28 16:19:38 Workerman[cli.php] status 
+2016-10-28 16:20:51 Workerman[cli.php] status 
+2016-10-28 17:38:27 WORKER EXIT UNEXPECTED 
+2016-10-28 17:38:27 WORKER EXIT UNEXPECTED 
+2016-10-28 17:38:27 worker[SubOrderPushWorker:26842] exit with status 64000
+2016-10-28 17:38:27 worker[SubOrderPushWorker:359] exit with status 64000
+2016-10-28 22:23:52 WORKER EXIT UNEXPECTED 
+2016-10-28 22:23:54 worker[SubOrderPushWorker:4398] exit with status 64000
+2016-10-28 22:23:55 WORKER EXIT UNEXPECTED 
+2016-10-28 22:23:55 worker[SubOrderPushWorker:4395] exit with status 64000
+2016-11-01 08:54:25 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:25 worker[SubOrderPushWorker:8758] exit with status 64000
+2016-11-01 08:54:25 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:26 worker[SubOrderPushWorker:8756] exit with status 64000
+2016-11-01 08:54:29 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:29 worker[SubOrderPushWorker:8771] exit with status 64000
+2016-11-01 08:54:30 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:30 worker[SubOrderPushWorker:8774] exit with status 64000
+2016-11-01 08:54:32 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:32 worker[SubOrderPushWorker:8782] exit with status 64000
+2016-11-01 08:54:34 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:34 worker[SubOrderPushWorker:8787] exit with status 64000
+2016-11-01 08:54:36 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:36 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:36 worker[SubOrderPushWorker:8802] exit with status 64000
+2016-11-01 08:54:36 worker[SubOrderPushWorker:8805] exit with status 64000
+2016-11-01 08:54:39 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:39 worker[SubOrderPushWorker:8810] exit with status 64000
+2016-11-01 08:54:40 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:40 worker[SubOrderPushWorker:8809] exit with status 64000
+2016-11-01 08:54:42 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:42 worker[SubOrderPushWorker:8849] exit with status 64000
+2016-11-01 08:54:44 WORKER EXIT UNEXPECTED 
+2016-11-01 08:54:44 worker[SubOrderPushWorker:8852] exit with status 64000
+2016-11-01 12:32:45 WORKER EXIT UNEXPECTED 
+2016-11-01 12:32:45 worker[SubOrderPushWorker:8856] exit with status 64000
+2016-11-01 13:41:47 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:47 worker[SubOrderPushWorker:12625] exit with status 64000
+2016-11-01 13:41:49 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:49 worker[SubOrderPushWorker:8860] exit with status 64000
+2016-11-01 13:41:50 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:50 worker[SubOrderPushWorker:12632] exit with status 64000
+2016-11-01 13:41:52 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:52 worker[SubOrderPushWorker:12634] exit with status 64000
+2016-11-01 13:41:52 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:52 worker[SubOrderPushWorker:12636] exit with status 64000
+2016-11-01 13:41:55 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:55 worker[SubOrderPushWorker:12639] exit with status 64000
+2016-11-01 13:41:56 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:56 worker[SubOrderPushWorker:12640] exit with status 64000
+2016-11-01 13:41:58 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:58 worker[SubOrderPushWorker:12644] exit with status 64000
+2016-11-01 13:41:59 WORKER EXIT UNEXPECTED 
+2016-11-01 13:41:59 worker[SubOrderPushWorker:12649] exit with status 64000
+2016-11-01 13:42:01 WORKER EXIT UNEXPECTED 
+2016-11-01 13:42:01 worker[SubOrderPushWorker:12651] exit with status 64000
+2016-11-01 19:08:13 WORKER EXIT UNEXPECTED 
+2016-11-01 19:08:14 worker[SubOrderPushWorker:12654] exit with status 64000
+2016-11-01 19:08:14 WORKER EXIT UNEXPECTED 
+2016-11-01 19:08:14 worker[SubOrderPushWorker:12657] exit with status 64000
+2016-11-01 20:48:37 WORKER EXIT UNEXPECTED 
+2016-11-01 20:48:37 WORKER EXIT UNEXPECTED 
+2016-11-01 20:48:39 worker[SubOrderPushWorker:16238] exit with status 64000
+2016-11-01 20:48:39 worker[SubOrderPushWorker:16240] exit with status 64000
+2016-11-01 23:25:34 WORKER EXIT UNEXPECTED 
+2016-11-01 23:25:33 WORKER EXIT UNEXPECTED 
+2016-11-01 23:58:50 worker[SubOrderPushWorker:17640] exit with status 64000
+2016-11-01 23:58:52 worker[SubOrderPushWorker:17641] exit with status 64000
+2016-11-02 04:37:19 WORKER EXIT UNEXPECTED 
+2016-11-02 04:37:20 worker[SubOrderPushWorker:19667] exit with status 64000
+2016-11-02 04:37:21 WORKER EXIT UNEXPECTED 
+2016-11-02 04:37:21 worker[SubOrderPushWorker:19666] exit with status 64000
+2016-11-02 04:37:23 WORKER EXIT UNEXPECTED 
+2016-11-02 04:37:23 WORKER EXIT UNEXPECTED 
+2016-11-02 04:37:24 worker[SubOrderPushWorker:23491] exit with status 64000
+2016-11-02 04:37:24 worker[SubOrderPushWorker:23492] exit with status 64000
+2016-11-02 14:11:12 WORKER EXIT UNEXPECTED 
+2016-11-02 14:11:12 worker[SubOrderPushWorker:23497] exit with status 64000
+2016-11-02 14:11:13 WORKER EXIT UNEXPECTED 
+2016-11-02 14:11:13 worker[SubOrderPushWorker:23496] exit with status 64000
+2016-11-02 14:11:14 WORKER EXIT UNEXPECTED 
+2016-11-02 14:11:14 worker[SubOrderPushWorker:23501] exit with status 64000
+2016-11-02 19:52:27 WORKER EXIT UNEXPECTED 
+2016-11-02 19:52:27 worker[SubOrderPushWorker:23507] exit with status 64000
+2016-11-02 20:21:27 WORKER EXIT UNEXPECTED 
+2016-11-02 20:21:27 worker[SubOrderPushWorker:23505] exit with status 64000
+2016-11-03 08:51:47 WORKER EXIT UNEXPECTED 
+2016-11-03 08:51:47 worker[SubOrderPushWorker:28982] exit with status 64000
+2016-11-03 08:51:50 WORKER EXIT UNEXPECTED 
+2016-11-03 08:51:50 worker[SubOrderPushWorker:28601] exit with status 64000
+2016-11-03 08:51:51 WORKER EXIT UNEXPECTED 
+2016-11-03 08:51:51 worker[SubOrderPushWorker:28985] exit with status 64000
+2016-11-03 08:51:55 WORKER EXIT UNEXPECTED 
+2016-11-03 08:51:55 WORKER EXIT UNEXPECTED 
+2016-11-03 08:51:55 worker[SubOrderPushWorker:28988] exit with status 64000
+2016-11-03 08:51:56 worker[SubOrderPushWorker:28990] exit with status 64000
+2016-11-03 08:52:00 WORKER EXIT UNEXPECTED 
+2016-11-03 08:52:00 WORKER EXIT UNEXPECTED 
+2016-11-03 08:52:00 worker[SubOrderPushWorker:28999] exit with status 64000
+2016-11-03 08:52:00 worker[SubOrderPushWorker:29000] exit with status 64000
+2016-11-03 12:37:45 WORKER EXIT UNEXPECTED 
+2016-11-03 12:37:46 worker[SubOrderPushWorker:29017] exit with status 64000
+2016-11-03 12:37:46 WORKER EXIT UNEXPECTED 
+2016-11-03 12:37:46 worker[SubOrderPushWorker:29015] exit with status 64000
+2016-11-03 12:39:21 WORKER EXIT UNEXPECTED 
+2016-11-03 12:39:21 worker[SubOrderPushWorker:503] exit with status 64000
+2016-11-03 19:18:28 WORKER EXIT UNEXPECTED 
+2016-11-03 19:18:29 WORKER EXIT UNEXPECTED 
+2016-11-03 19:18:29 worker[SubOrderPushWorker:541] exit with status 64000
+2016-11-03 19:18:29 worker[SubOrderPushWorker:506] exit with status 64000
+2016-11-04 12:11:01 WORKER EXIT UNEXPECTED 
+2016-11-04 12:11:01 worker[SubOrderPushWorker:6029] exit with status 64000
+2016-11-04 12:54:25 WORKER EXIT UNEXPECTED 
+2016-11-04 12:54:27 worker[SubOrderPushWorker:6026] exit with status 64000
+2016-11-04 12:54:28 WORKER EXIT UNEXPECTED 
+2016-11-04 12:54:28 worker[SubOrderPushWorker:10256] exit with status 64000
+2016-11-04 14:15:16 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:16 worker[SubOrderPushWorker:10826] exit with status 64000
+2016-11-04 14:15:17 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:17 worker[SubOrderPushWorker:10828] exit with status 64000
+2016-11-04 14:15:20 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:20 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:21 worker[SubOrderPushWorker:10832] exit with status 64000
+2016-11-04 14:15:21 worker[SubOrderPushWorker:10831] exit with status 64000
+2016-11-04 14:15:24 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:24 worker[SubOrderPushWorker:10837] exit with status 64000
+2016-11-04 14:15:25 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:25 worker[SubOrderPushWorker:10838] exit with status 64000
+2016-11-04 14:15:27 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:27 worker[SubOrderPushWorker:10846] exit with status 64000
+2016-11-04 14:15:29 WORKER EXIT UNEXPECTED 
+2016-11-04 14:15:29 worker[SubOrderPushWorker:10848] exit with status 64000
+2016-11-04 14:46:32 WORKER EXIT UNEXPECTED 
+2016-11-04 14:46:32 worker[SubOrderPushWorker:10855] exit with status 64000
+2016-11-04 18:23:57 WORKER EXIT UNEXPECTED 
+2016-11-04 18:23:57 worker[SubOrderPushWorker:11370] exit with status 64000
+2016-11-04 18:59:12 WORKER EXIT UNEXPECTED 
+2016-11-04 18:59:12 worker[SubOrderPushWorker:10851] exit with status 64000
+2016-11-04 18:59:14 WORKER EXIT UNEXPECTED 
+2016-11-04 18:59:14 worker[SubOrderPushWorker:14419] exit with status 64000
+2016-11-07 09:06:38 WORKER EXIT UNEXPECTED 
+2016-11-07 09:06:38 worker[SubOrderPushWorker:14942] exit with status 64000
+2016-11-07 09:06:38 WORKER EXIT UNEXPECTED 
+2016-11-07 09:06:38 worker[SubOrderPushWorker:14938] exit with status 64000
+2016-11-07 09:06:41 WORKER EXIT UNEXPECTED 
+2016-11-07 09:06:41 worker[SubOrderPushWorker:14945] exit with status 64000
+2016-11-07 09:06:41 WORKER EXIT UNEXPECTED 
+2016-11-07 09:06:41 worker[SubOrderPushWorker:14946] exit with status 64000
+2016-11-07 09:06:44 WORKER EXIT UNEXPECTED 
+2016-11-07 09:06:44 worker[SubOrderPushWorker:15006] exit with status 64000
+2016-11-07 11:49:12 WORKER EXIT UNEXPECTED 
+2016-11-07 11:49:12 worker[SubOrderPushWorker:15011] exit with status 64000
+2016-11-07 11:50:14 WORKER EXIT UNEXPECTED 
+2016-11-07 11:50:14 worker[SubOrderPushWorker:15007] exit with status 64000
+2016-11-07 19:22:06 WORKER EXIT UNEXPECTED 
+2016-11-07 19:22:06 WORKER EXIT UNEXPECTED 
+2016-11-07 19:22:07 worker[SubOrderPushWorker:17069] exit with status 64000
+2016-11-07 19:22:07 worker[SubOrderPushWorker:17084] exit with status 64000
+2016-11-08 09:07:03 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:03 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:03 worker[SubOrderPushWorker:22464] exit with status 64000
+2016-11-08 09:07:04 worker[SubOrderPushWorker:22465] exit with status 64000
+2016-11-08 09:07:18 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:18 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:18 worker[SubOrderPushWorker:22470] exit with status 64000
+2016-11-08 09:07:18 worker[SubOrderPushWorker:22471] exit with status 64000
+2016-11-08 09:07:31 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:31 WORKER EXIT UNEXPECTED 
+2016-11-08 09:07:31 worker[SubOrderPushWorker:22491] exit with status 64000
+2016-11-08 09:07:31 worker[SubOrderPushWorker:22490] exit with status 64000
+2016-11-08 09:09:37 WORKER EXIT UNEXPECTED 
+2016-11-08 09:09:37 WORKER EXIT UNEXPECTED 
+2016-11-08 09:09:37 worker[SubOrderPushWorker:22502] exit with status 64000
+2016-11-08 09:09:37 worker[SubOrderPushWorker:22501] exit with status 64000
+2016-11-08 09:11:41 WORKER EXIT UNEXPECTED 
+2016-11-08 09:11:41 worker[SubOrderPushWorker:22546] exit with status 64000
+2016-11-08 09:11:41 WORKER EXIT UNEXPECTED 
+2016-11-08 09:11:41 worker[SubOrderPushWorker:22545] exit with status 64000
+2016-11-08 09:13:47 WORKER EXIT UNEXPECTED 
+2016-11-08 09:13:47 worker[SubOrderPushWorker:22581] exit with status 64000
+2016-11-08 09:15:52 WORKER EXIT UNEXPECTED 
+2016-11-08 09:15:52 WORKER EXIT UNEXPECTED 
+2016-11-08 09:15:52 worker[SubOrderPushWorker:22677] exit with status 64000
+2016-11-08 09:15:52 worker[SubOrderPushWorker:22576] exit with status 64000
+2016-11-08 09:22:07 WORKER EXIT UNEXPECTED 
+2016-11-08 09:22:08 WORKER EXIT UNEXPECTED 
+2016-11-08 09:22:08 worker[SubOrderPushWorker:22724] exit with status 64000
+2016-11-08 09:22:08 worker[SubOrderPushWorker:22723] exit with status 64000
+2016-11-08 09:24:11 WORKER EXIT UNEXPECTED 
+2016-11-08 09:24:11 worker[SubOrderPushWorker:22811] exit with status 64000
+2016-11-08 09:24:11 WORKER EXIT UNEXPECTED 
+2016-11-08 09:24:11 worker[SubOrderPushWorker:22813] exit with status 64000
+2016-11-08 09:26:17 WORKER EXIT UNEXPECTED 
+2016-11-08 09:26:17 worker[SubOrderPushWorker:22842] exit with status 64000
+2016-11-08 09:32:32 WORKER EXIT UNEXPECTED 
+2016-11-08 09:32:33 worker[SubOrderPushWorker:22875] exit with status 64000
+2016-11-08 09:34:36 WORKER EXIT UNEXPECTED 
+2016-11-08 09:34:36 worker[SubOrderPushWorker:22956] exit with status 64000
+2016-11-08 09:34:37 WORKER EXIT UNEXPECTED 
+2016-11-08 09:34:38 worker[SubOrderPushWorker:22845] exit with status 64000
+2016-11-08 09:36:43 WORKER EXIT UNEXPECTED 
+2016-11-08 09:36:43 worker[SubOrderPushWorker:22986] exit with status 64000
+2016-11-08 09:42:57 WORKER EXIT UNEXPECTED 
+2016-11-08 09:42:57 WORKER EXIT UNEXPECTED 
+2016-11-08 09:42:57 worker[SubOrderPushWorker:23017] exit with status 64000
+2016-11-08 09:42:58 worker[SubOrderPushWorker:22990] exit with status 64000
+2016-11-08 09:45:01 WORKER EXIT UNEXPECTED 
+2016-11-08 09:45:01 worker[SubOrderPushWorker:23117] exit with status 64000
+2016-11-08 09:45:02 WORKER EXIT UNEXPECTED 
+2016-11-08 09:45:02 worker[SubOrderPushWorker:23120] exit with status 64000
+2016-11-08 09:45:46 WORKER EXIT UNEXPECTED 
+2016-11-08 09:45:46 worker[SubOrderPushWorker:23153] exit with status 64000
+2016-11-08 09:47:07 WORKER EXIT UNEXPECTED 
+2016-11-08 09:47:07 WORKER EXIT UNEXPECTED 
+2016-11-08 09:47:08 worker[SubOrderPushWorker:23164] exit with status 64000
+2016-11-08 09:47:08 worker[SubOrderPushWorker:23151] exit with status 64000
+2016-11-08 09:49:11 WORKER EXIT UNEXPECTED 
+2016-11-08 09:49:11 worker[SubOrderPushWorker:23184] exit with status 64000
+2016-11-08 09:49:11 WORKER EXIT UNEXPECTED 
+2016-11-08 09:49:11 worker[SubOrderPushWorker:23186] exit with status 64000
+2016-11-08 09:51:16 WORKER EXIT UNEXPECTED 
+2016-11-08 09:51:16 worker[SubOrderPushWorker:23217] exit with status 64000
+2016-11-08 09:53:22 WORKER EXIT UNEXPECTED 
+2016-11-08 09:53:22 WORKER EXIT UNEXPECTED 
+2016-11-08 09:53:23 worker[SubOrderPushWorker:23213] exit with status 64000
+2016-11-08 09:53:23 worker[SubOrderPushWorker:23245] exit with status 64000
+2016-11-08 09:55:26 WORKER EXIT UNEXPECTED 
+2016-11-08 09:55:26 WORKER EXIT UNEXPECTED 
+2016-11-08 09:55:26 worker[SubOrderPushWorker:23279] exit with status 64000
+2016-11-08 09:55:26 worker[SubOrderPushWorker:23280] exit with status 64000
+2016-11-08 10:05:53 WORKER EXIT UNEXPECTED 
+2016-11-08 10:05:53 worker[SubOrderPushWorker:23307] exit with status 64000
+2016-11-08 10:10:03 WORKER EXIT UNEXPECTED 
+2016-11-08 10:10:03 worker[SubOrderPushWorker:23310] exit with status 64000
+2016-11-08 10:12:08 WORKER EXIT UNEXPECTED 
+2016-11-08 10:12:08 worker[SubOrderPushWorker:23447] exit with status 64000
+2016-11-08 10:16:17 WORKER EXIT UNEXPECTED 
+2016-11-08 10:16:17 WORKER EXIT UNEXPECTED 
+2016-11-08 10:16:18 worker[SubOrderPushWorker:23517] exit with status 64000
+2016-11-08 10:16:18 worker[SubOrderPushWorker:23547] exit with status 64000
+2016-11-08 10:18:21 WORKER EXIT UNEXPECTED 
+2016-11-08 10:18:21 WORKER EXIT UNEXPECTED 
+2016-11-08 10:18:21 worker[SubOrderPushWorker:23615] exit with status 64000
+2016-11-08 10:18:21 worker[SubOrderPushWorker:23611] exit with status 64000
+2016-11-08 10:24:37 WORKER EXIT UNEXPECTED 
+2016-11-08 10:24:37 worker[SubOrderPushWorker:23648] exit with status 64000
+2016-11-08 10:26:42 WORKER EXIT UNEXPECTED 
+2016-11-08 10:26:42 WORKER EXIT UNEXPECTED 
+2016-11-08 10:26:43 worker[SubOrderPushWorker:23649] exit with status 64000
+2016-11-08 10:26:43 worker[SubOrderPushWorker:23731] exit with status 64000
+2016-11-08 10:28:46 WORKER EXIT UNEXPECTED 
+2016-11-08 10:28:46 WORKER EXIT UNEXPECTED 
+2016-11-08 10:28:46 worker[SubOrderPushWorker:23763] exit with status 64000
+2016-11-08 10:28:46 worker[SubOrderPushWorker:23760] exit with status 64000
+2016-11-08 10:30:52 WORKER EXIT UNEXPECTED 
+2016-11-08 10:30:52 worker[SubOrderPushWorker:23793] exit with status 64000
+2016-11-08 10:32:58 WORKER EXIT UNEXPECTED 
+2016-11-08 10:32:58 WORKER EXIT UNEXPECTED 
+2016-11-08 10:32:58 worker[SubOrderPushWorker:23792] exit with status 64000
+2016-11-08 10:32:58 worker[SubOrderPushWorker:23823] exit with status 64000
+2016-11-08 10:35:02 WORKER EXIT UNEXPECTED 
+2016-11-08 10:35:02 WORKER EXIT UNEXPECTED 
+2016-11-08 10:35:03 worker[SubOrderPushWorker:23855] exit with status 64000
+2016-11-08 10:35:03 worker[SubOrderPushWorker:23856] exit with status 64000
+2016-11-08 10:39:12 WORKER EXIT UNEXPECTED 
+2016-11-08 10:39:12 worker[SubOrderPushWorker:23889] exit with status 64000
+2016-11-08 10:41:17 WORKER EXIT UNEXPECTED 
+2016-11-08 10:41:17 worker[SubOrderPushWorker:23958] exit with status 64000
+2016-11-08 10:45:27 WORKER EXIT UNEXPECTED 
+2016-11-08 10:45:27 WORKER EXIT UNEXPECTED 
+2016-11-08 10:45:28 worker[SubOrderPushWorker:23885] exit with status 64000
+2016-11-08 10:45:28 worker[SubOrderPushWorker:23984] exit with status 64000
+2016-11-08 10:47:31 WORKER EXIT UNEXPECTED 
+2016-11-08 10:47:31 WORKER EXIT UNEXPECTED 
+2016-11-08 10:47:31 worker[SubOrderPushWorker:24043] exit with status 64000
+2016-11-08 10:47:31 worker[SubOrderPushWorker:24044] exit with status 64000
+2016-11-08 10:49:37 WORKER EXIT UNEXPECTED 
+2016-11-08 10:49:37 worker[SubOrderPushWorker:24074] exit with status 64000
+2016-11-08 10:51:42 WORKER EXIT UNEXPECTED 
+2016-11-08 10:51:42 worker[SubOrderPushWorker:24103] exit with status 64000
+2016-11-08 10:55:52 WORKER EXIT UNEXPECTED 
+2016-11-08 10:55:52 worker[SubOrderPushWorker:24132] exit with status 64000
+2016-11-08 11:00:02 WORKER EXIT UNEXPECTED 
+2016-11-08 11:00:02 worker[SubOrderPushWorker:24186] exit with status 64000
+2016-11-08 11:06:17 WORKER EXIT UNEXPECTED 
+2016-11-08 11:06:17 WORKER EXIT UNEXPECTED 
+2016-11-08 11:06:17 worker[SubOrderPushWorker:24240] exit with status 64000
+2016-11-08 11:06:18 worker[SubOrderPushWorker:24075] exit with status 64000
+2016-11-08 11:08:22 WORKER EXIT UNEXPECTED 
+2016-11-08 11:08:22 worker[SubOrderPushWorker:24337] exit with status 64000
+2016-11-08 11:10:27 WORKER EXIT UNEXPECTED 
+2016-11-08 11:10:27 WORKER EXIT UNEXPECTED 
+2016-11-08 11:10:27 worker[SubOrderPushWorker:24364] exit with status 64000
+2016-11-08 11:10:27 worker[SubOrderPushWorker:24333] exit with status 64000
+2016-11-08 11:14:37 WORKER EXIT UNEXPECTED 
+2016-11-08 11:14:37 worker[SubOrderPushWorker:24411] exit with status 64000
+2016-11-08 11:16:42 WORKER EXIT UNEXPECTED 
+2016-11-08 11:16:42 WORKER EXIT UNEXPECTED 
+2016-11-08 11:16:43 worker[SubOrderPushWorker:24472] exit with status 64000
+2016-11-08 11:16:43 worker[SubOrderPushWorker:24412] exit with status 64000
+2016-11-08 11:20:52 WORKER EXIT UNEXPECTED 
+2016-11-08 11:20:52 worker[SubOrderPushWorker:24499] exit with status 64000
+2016-11-08 11:20:52 WORKER EXIT UNEXPECTED 
+2016-11-08 11:20:53 worker[SubOrderPushWorker:24502] exit with status 64000
+2016-11-08 11:25:03 WORKER EXIT UNEXPECTED 
+2016-11-08 11:25:03 worker[SubOrderPushWorker:24578] exit with status 64000
+2016-11-08 11:27:07 WORKER EXIT UNEXPECTED 
+2016-11-08 11:27:07 worker[SubOrderPushWorker:24581] exit with status 64000
+2016-11-08 11:27:07 WORKER EXIT UNEXPECTED 
+2016-11-08 11:27:08 worker[SubOrderPushWorker:24675] exit with status 64000
+2016-11-08 11:31:18 WORKER EXIT UNEXPECTED 
+2016-11-08 11:31:18 WORKER EXIT UNEXPECTED 
+2016-11-08 11:31:18 worker[SubOrderPushWorker:24719] exit with status 64000
+2016-11-08 11:31:18 worker[SubOrderPushWorker:24715] exit with status 64000
+2016-11-08 11:33:22 WORKER EXIT UNEXPECTED 
+2016-11-08 11:33:23 worker[SubOrderPushWorker:24822] exit with status 64000
+2016-11-08 11:35:28 WORKER EXIT UNEXPECTED 
+2016-11-08 11:35:28 worker[SubOrderPushWorker:24820] exit with status 64000
+2016-11-08 11:37:33 WORKER EXIT UNEXPECTED 
+2016-11-08 11:37:33 worker[SubOrderPushWorker:24866] exit with status 64000
+2016-11-08 11:39:38 WORKER EXIT UNEXPECTED 
+2016-11-08 11:39:38 worker[SubOrderPushWorker:24969] exit with status 64000
+2016-11-08 11:41:43 WORKER EXIT UNEXPECTED 
+2016-11-08 11:41:43 worker[SubOrderPushWorker:24919] exit with status 64000
+2016-11-08 11:43:48 WORKER EXIT UNEXPECTED 
+2016-11-08 11:43:48 WORKER EXIT UNEXPECTED 
+2016-11-08 11:43:48 worker[SubOrderPushWorker:25088] exit with status 64000
+2016-11-08 11:43:48 worker[SubOrderPushWorker:25036] exit with status 64000
+2016-11-08 11:50:03 WORKER EXIT UNEXPECTED 
+2016-11-08 11:50:03 worker[SubOrderPushWorker:25140] exit with status 64000
+2016-11-08 11:50:03 WORKER EXIT UNEXPECTED 
+2016-11-08 11:50:03 worker[SubOrderPushWorker:25137] exit with status 64000
+2016-11-08 11:52:06 WORKER EXIT UNEXPECTED 
+2016-11-08 11:52:06 worker[SubOrderPushWorker:25293] exit with status 64000
+2016-11-08 11:52:08 WORKER EXIT UNEXPECTED 
+2016-11-08 11:52:08 worker[SubOrderPushWorker:25290] exit with status 64000
+2016-11-08 11:54:13 WORKER EXIT UNEXPECTED 
+2016-11-08 11:54:13 WORKER EXIT UNEXPECTED 
+2016-11-08 11:54:13 worker[SubOrderPushWorker:25335] exit with status 64000
+2016-11-08 11:54:13 worker[SubOrderPushWorker:25334] exit with status 64000
+2016-11-08 11:56:18 WORKER EXIT UNEXPECTED 
+2016-11-08 11:56:18 worker[SubOrderPushWorker:25389] exit with status 64000
+2016-11-08 11:58:23 WORKER EXIT UNEXPECTED 
+2016-11-08 11:58:23 WORKER EXIT UNEXPECTED 
+2016-11-08 11:58:23 worker[SubOrderPushWorker:25435] exit with status 64000
+2016-11-08 11:58:23 worker[SubOrderPushWorker:25390] exit with status 64000
+2016-11-08 12:02:33 WORKER EXIT UNEXPECTED 
+2016-11-08 12:02:33 worker[SubOrderPushWorker:25484] exit with status 64000
+2016-11-08 12:10:53 WORKER EXIT UNEXPECTED 
+2016-11-08 12:10:53 WORKER EXIT UNEXPECTED 
+2016-11-08 12:10:53 worker[SubOrderPushWorker:25581] exit with status 64000
+2016-11-08 12:10:53 worker[SubOrderPushWorker:25488] exit with status 64000
+2016-11-08 12:15:03 WORKER EXIT UNEXPECTED 
+2016-11-08 12:15:03 WORKER EXIT UNEXPECTED 
+2016-11-08 12:15:03 worker[SubOrderPushWorker:25788] exit with status 64000
+2016-11-08 12:15:03 worker[SubOrderPushWorker:25790] exit with status 64000
+2016-11-08 12:19:13 WORKER EXIT UNEXPECTED 
+2016-11-08 12:19:13 worker[SubOrderPushWorker:25888] exit with status 64000
+2016-11-08 12:21:18 WORKER EXIT UNEXPECTED 
+2016-11-08 12:21:18 worker[SubOrderPushWorker:25889] exit with status 64000
+2016-11-08 12:25:28 WORKER EXIT UNEXPECTED 
+2016-11-08 12:25:28 WORKER EXIT UNEXPECTED 
+2016-11-08 12:25:28 worker[SubOrderPushWorker:25982] exit with status 64000
+2016-11-08 12:25:28 worker[SubOrderPushWorker:26031] exit with status 64000
+2016-11-08 12:31:43 WORKER EXIT UNEXPECTED 
+2016-11-08 12:31:43 WORKER EXIT UNEXPECTED 
+2016-11-08 12:31:43 worker[SubOrderPushWorker:26121] exit with status 64000
+2016-11-08 12:31:43 worker[SubOrderPushWorker:26123] exit with status 64000
+2016-11-08 12:35:53 WORKER EXIT UNEXPECTED 
+2016-11-08 12:35:53 worker[SubOrderPushWorker:26274] exit with status 64000
+2016-11-08 12:37:58 WORKER EXIT UNEXPECTED 
+2016-11-08 12:37:58 worker[SubOrderPushWorker:26384] exit with status 64000
+2016-11-08 12:40:55 WORKER EXIT UNEXPECTED 
+2016-11-08 12:40:56 WORKER EXIT UNEXPECTED 
+2016-11-08 12:40:56 worker[SubOrderPushWorker:26439] exit with status 64000
+2016-11-08 12:40:56 worker[SubOrderPushWorker:26272] exit with status 64000
+2016-11-08 12:40:59 WORKER EXIT UNEXPECTED 
+2016-11-08 12:40:59 WORKER EXIT UNEXPECTED 
+2016-11-08 12:40:59 worker[SubOrderPushWorker:26531] exit with status 64000
+2016-11-08 12:40:59 worker[SubOrderPushWorker:26532] exit with status 64000
+2016-11-08 12:41:02 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:02 worker[SubOrderPushWorker:26539] exit with status 64000
+2016-11-08 12:41:03 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:03 worker[SubOrderPushWorker:26540] exit with status 64000
+2016-11-08 12:41:05 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:05 worker[SubOrderPushWorker:26549] exit with status 64000
+2016-11-08 12:41:06 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:06 worker[SubOrderPushWorker:26547] exit with status 64000
+2016-11-08 12:41:07 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:07 worker[SubOrderPushWorker:26558] exit with status 64000
+2016-11-08 12:41:08 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:08 worker[SubOrderPushWorker:26560] exit with status 64000
+2016-11-08 12:41:09 WORKER EXIT UNEXPECTED 
+2016-11-08 12:41:10 worker[SubOrderPushWorker:26565] exit with status 64000
+2016-11-08 13:13:29 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:29 worker[SubOrderPushWorker:26568] exit with status 64000
+2016-11-08 13:13:31 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:31 worker[SubOrderPushWorker:26566] exit with status 64000
+2016-11-08 13:13:31 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:31 worker[SubOrderPushWorker:27441] exit with status 64000
+2016-11-08 13:13:33 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:33 worker[SubOrderPushWorker:27442] exit with status 64000
+2016-11-08 13:13:34 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:34 worker[SubOrderPushWorker:27445] exit with status 64000
+2016-11-08 13:13:36 WORKER EXIT UNEXPECTED 
+2016-11-08 13:13:36 worker[SubOrderPushWorker:27451] exit with status 64000
+2016-11-08 18:22:28 WORKER EXIT UNEXPECTED 
+2016-11-08 18:22:28 WORKER EXIT UNEXPECTED 
+2016-11-08 21:12:53 worker[SubOrderPushWorker:27453] exit with status 64000
+2016-11-08 21:12:53 worker[SubOrderPushWorker:27448] exit with status 64000
+2016-11-08 21:12:55 WORKER EXIT UNEXPECTED 
+2016-11-08 21:12:55 worker[SubOrderPushWorker:569] exit with status 64000
+2016-11-08 21:13:01 WORKER EXIT UNEXPECTED 
+2016-11-08 21:13:01 worker[SubOrderPushWorker:570] exit with status 64000
+2016-11-08 21:51:52 WORKER EXIT UNEXPECTED 
+2016-11-09 07:53:12 worker[SubOrderPushWorker:595] exit with status 64000
+2016-11-09 07:53:13 WORKER EXIT UNEXPECTED 
+2016-11-09 07:53:13 worker[SubOrderPushWorker:593] exit with status 64000
+2016-11-09 07:54:41 WORKER EXIT UNEXPECTED 
+2016-11-09 07:54:41 worker[SubOrderPushWorker:12291] exit with status 64000
+2016-11-09 11:11:19 WORKER EXIT UNEXPECTED 
+2016-11-09 11:11:19 worker[SubOrderPushWorker:12749] exit with status 64000
+2016-11-09 11:18:23 WORKER EXIT UNEXPECTED 
+2016-11-09 11:18:23 worker[SubOrderPushWorker:12288] exit with status 64000
+2016-11-09 12:44:04 WORKER EXIT UNEXPECTED 
+2016-11-09 12:44:04 WORKER EXIT UNEXPECTED 
+2016-11-09 12:44:04 worker[SubOrderPushWorker:25385] exit with status 64000
+2016-11-09 12:44:04 worker[SubOrderPushWorker:25478] exit with status 64000
+2016-11-09 18:45:27 WORKER EXIT UNEXPECTED 
+2016-11-09 18:45:27 WORKER EXIT UNEXPECTED 
+2016-11-09 18:45:29 worker[SubOrderPushWorker:26655] exit with status 64000
+2016-11-09 18:45:29 worker[SubOrderPushWorker:26654] exit with status 64000
+2016-11-09 18:45:31 WORKER EXIT UNEXPECTED 
+2016-11-09 18:45:32 worker[SubOrderPushWorker:31898] exit with status 64000
+2016-11-09 18:45:32 WORKER EXIT UNEXPECTED 
+2016-11-09 18:45:32 worker[SubOrderPushWorker:31899] exit with status 64000
+2016-11-10 12:33:39 WORKER EXIT UNEXPECTED 
+2016-11-10 12:33:39 worker[SubOrderPushWorker:31904] exit with status 64000
+2016-11-10 13:33:34 WORKER EXIT UNEXPECTED 
+2016-11-10 13:33:34 worker[SubOrderPushWorker:31905] exit with status 64000
+2016-11-11 15:39:25 WORKER EXIT UNEXPECTED 
+2016-11-11 15:39:26 worker[SubOrderPushWorker:3679] exit with status 64000
+2016-11-11 17:52:20 WORKER EXIT UNEXPECTED 
+2016-11-11 17:52:22 worker[SubOrderPushWorker:3681] exit with status 64000
+2016-11-11 20:12:09 WORKER EXIT UNEXPECTED 
+2016-11-11 20:12:09 worker[SubOrderPushWorker:15187] exit with status 64000
+2016-11-11 20:12:10 WORKER EXIT UNEXPECTED 
+2016-11-11 20:12:10 worker[SubOrderPushWorker:13429] exit with status 64000
+2016-11-14 12:29:00 WORKER EXIT UNEXPECTED 
+2016-11-14 12:29:00 WORKER EXIT UNEXPECTED 
+2016-11-14 12:29:00 worker[SubOrderPushWorker:17098] exit with status 64000
+2016-11-14 12:29:00 worker[SubOrderPushWorker:17097] exit with status 64000
+2016-11-14 12:29:02 WORKER EXIT UNEXPECTED 
+2016-11-14 12:29:03 worker[SubOrderPushWorker:20189] exit with status 64000
+2016-11-14 12:29:03 WORKER EXIT UNEXPECTED 
+2016-11-14 12:29:03 worker[SubOrderPushWorker:20188] exit with status 64000
+2016-11-14 13:35:15 WORKER EXIT UNEXPECTED 
+2016-11-14 13:35:15 worker[SubOrderPushWorker:20191] exit with status 64000
+2016-11-14 13:35:17 WORKER EXIT UNEXPECTED 
+2016-11-14 13:35:17 worker[SubOrderPushWorker:20192] exit with status 64000
+2016-11-14 13:35:21 WORKER EXIT UNEXPECTED 
+2016-11-14 13:35:21 worker[SubOrderPushWorker:20199] exit with status 64000
+2016-11-14 13:37:24 WORKER EXIT UNEXPECTED 
+2016-11-14 13:37:24 WORKER EXIT UNEXPECTED 
+2016-11-14 13:37:25 worker[SubOrderPushWorker:20201] exit with status 64000
+2016-11-14 13:37:25 worker[SubOrderPushWorker:20197] exit with status 64000
+2016-11-14 13:39:29 WORKER EXIT UNEXPECTED 
+2016-11-14 13:39:29 WORKER EXIT UNEXPECTED 
+2016-11-14 13:39:30 worker[SubOrderPushWorker:20230] exit with status 64000
+2016-11-14 13:39:30 worker[SubOrderPushWorker:20231] exit with status 64000
+2016-11-14 13:41:33 WORKER EXIT UNEXPECTED 
+2016-11-14 13:41:33 WORKER EXIT UNEXPECTED 
+2016-11-14 13:41:33 worker[SubOrderPushWorker:20272] exit with status 64000
+2016-11-14 13:41:33 worker[SubOrderPushWorker:20275] exit with status 64000
+2016-11-14 13:45:44 WORKER EXIT UNEXPECTED 
+2016-11-14 13:45:45 worker[SubOrderPushWorker:20302] exit with status 64000
+2016-11-14 13:47:48 WORKER EXIT UNEXPECTED 
+2016-11-14 13:47:48 WORKER EXIT UNEXPECTED 
+2016-11-14 13:47:48 worker[SubOrderPushWorker:20357] exit with status 64000
+2016-11-14 13:47:48 worker[SubOrderPushWorker:20303] exit with status 64000
+2016-11-14 13:49:55 WORKER EXIT UNEXPECTED 
+2016-11-14 13:49:55 worker[SubOrderPushWorker:20387] exit with status 64000
+2016-11-14 13:52:00 WORKER EXIT UNEXPECTED 
+2016-11-14 13:52:00 worker[SubOrderPushWorker:20417] exit with status 64000
+2016-11-14 13:54:05 WORKER EXIT UNEXPECTED 
+2016-11-14 13:54:05 WORKER EXIT UNEXPECTED 
+2016-11-14 13:54:05 worker[SubOrderPushWorker:20390] exit with status 64000
+2016-11-14 13:54:05 worker[SubOrderPushWorker:20446] exit with status 64000
+2016-11-14 13:58:15 WORKER EXIT UNEXPECTED 
+2016-11-14 13:58:15 worker[SubOrderPushWorker:20473] exit with status 64000
+2016-11-14 14:00:20 WORKER EXIT UNEXPECTED 
+2016-11-14 14:00:20 worker[SubOrderPushWorker:20474] exit with status 64000
+2016-11-14 14:02:25 WORKER EXIT UNEXPECTED 
+2016-11-14 14:02:25 WORKER EXIT UNEXPECTED 
+2016-11-14 14:02:25 worker[SubOrderPushWorker:20531] exit with status 64000
+2016-11-14 14:02:25 worker[SubOrderPushWorker:20557] exit with status 64000
+2016-11-14 14:04:30 WORKER EXIT UNEXPECTED 
+2016-11-14 14:04:30 worker[SubOrderPushWorker:20587] exit with status 64000
+2016-11-14 14:06:34 WORKER EXIT UNEXPECTED 
+2016-11-14 14:06:34 worker[SubOrderPushWorker:20616] exit with status 64000
+2016-11-14 14:06:35 WORKER EXIT UNEXPECTED 
+2016-11-14 14:06:35 worker[SubOrderPushWorker:20588] exit with status 64000
+2016-11-14 14:08:40 WORKER EXIT UNEXPECTED 
+2016-11-14 14:08:40 WORKER EXIT UNEXPECTED 
+2016-11-14 14:08:40 worker[SubOrderPushWorker:20647] exit with status 64000
+2016-11-14 14:08:40 worker[SubOrderPushWorker:20644] exit with status 64000
+2016-11-14 14:12:50 WORKER EXIT UNEXPECTED 
+2016-11-14 14:12:50 worker[SubOrderPushWorker:20675] exit with status 64000
+2016-11-14 14:17:00 WORKER EXIT UNEXPECTED 
+2016-11-14 14:17:00 WORKER EXIT UNEXPECTED 
+2016-11-14 14:17:00 worker[SubOrderPushWorker:20674] exit with status 64000
+2016-11-14 14:17:00 worker[SubOrderPushWorker:20745] exit with status 64000
+2016-11-14 14:19:05 WORKER EXIT UNEXPECTED 
+2016-11-14 14:19:05 worker[SubOrderPushWorker:20799] exit with status 64000
+2016-11-14 14:21:10 WORKER EXIT UNEXPECTED 
+2016-11-14 14:21:10 worker[SubOrderPushWorker:20801] exit with status 64000
+2016-11-14 14:25:20 WORKER EXIT UNEXPECTED 
+2016-11-14 14:25:20 WORKER EXIT UNEXPECTED 
+2016-11-14 14:25:20 worker[SubOrderPushWorker:20859] exit with status 64000
+2016-11-14 14:25:20 worker[SubOrderPushWorker:20832] exit with status 64000
+2016-11-14 14:27:25 WORKER EXIT UNEXPECTED 
+2016-11-14 14:27:25 worker[SubOrderPushWorker:21001] exit with status 64000
+2016-11-14 14:29:30 WORKER EXIT UNEXPECTED 
+2016-11-14 14:29:30 WORKER EXIT UNEXPECTED 
+2016-11-14 14:29:30 worker[SubOrderPushWorker:21046] exit with status 64000
+2016-11-14 14:29:30 worker[SubOrderPushWorker:21003] exit with status 64000
+2016-11-14 14:31:35 WORKER EXIT UNEXPECTED 
+2016-11-14 14:31:35 WORKER EXIT UNEXPECTED 
+2016-11-14 14:31:35 worker[SubOrderPushWorker:21077] exit with status 64000
+2016-11-14 14:31:35 worker[SubOrderPushWorker:21075] exit with status 64000
+2016-11-14 14:35:45 WORKER EXIT UNEXPECTED 
+2016-11-14 14:35:45 worker[SubOrderPushWorker:21104] exit with status 64000
+2016-11-14 14:37:50 WORKER EXIT UNEXPECTED 
+2016-11-14 14:37:50 WORKER EXIT UNEXPECTED 
+2016-11-14 14:37:50 worker[SubOrderPushWorker:21105] exit with status 64000
+2016-11-14 14:37:50 worker[SubOrderPushWorker:21161] exit with status 64000
+2016-11-14 14:39:55 WORKER EXIT UNEXPECTED 
+2016-11-14 14:39:55 WORKER EXIT UNEXPECTED 
+2016-11-14 14:39:55 worker[SubOrderPushWorker:21190] exit with status 64000
+2016-11-14 14:39:55 worker[SubOrderPushWorker:21191] exit with status 64000
+2016-11-14 14:42:00 WORKER EXIT UNEXPECTED 
+2016-11-14 14:42:00 WORKER EXIT UNEXPECTED 
+2016-11-14 14:42:00 worker[SubOrderPushWorker:21233] exit with status 64000
+2016-11-14 14:42:00 worker[SubOrderPushWorker:21236] exit with status 64000
+2016-11-14 14:44:03 WORKER EXIT UNEXPECTED 
+2016-11-14 14:44:03 worker[SubOrderPushWorker:21267] exit with status 64000
+2016-11-14 14:50:19 WORKER EXIT UNEXPECTED 
+2016-11-14 14:50:20 worker[SubOrderPushWorker:21294] exit with status 64000
+2016-11-14 14:50:20 WORKER EXIT UNEXPECTED 
+2016-11-14 14:50:20 worker[SubOrderPushWorker:21266] exit with status 64000
+2016-11-14 14:51:13 WORKER EXIT UNEXPECTED 
+2016-11-14 14:51:13 worker[SubOrderPushWorker:21377] exit with status 64000
+2016-11-14 17:15:16 WORKER EXIT UNEXPECTED 
+2016-11-14 17:15:16 worker[SubOrderPushWorker:21389] exit with status 64000
+2016-11-14 19:06:16 Workerman[cli.php] status 
+2016-11-15 14:15:19 Workerman[cli.php] status 
+2016-11-16 09:06:09 WORKER EXIT UNEXPECTED 
+2016-11-16 09:06:09 WORKER EXIT UNEXPECTED 
+2016-11-16 09:06:11 worker[SubOrderPushWorker:23309] exit with status 64000
+2016-11-16 09:06:11 worker[SubOrderPushWorker:21378] exit with status 64000
+2016-11-16 09:06:13 WORKER EXIT UNEXPECTED 
+2016-11-16 09:06:13 worker[SubOrderPushWorker:2720] exit with status 64000
+2016-11-16 09:06:14 WORKER EXIT UNEXPECTED 
+2016-11-16 09:06:14 worker[SubOrderPushWorker:2721] exit with status 64000
+2016-11-16 09:06:15 WORKER EXIT UNEXPECTED 
+2016-11-16 09:06:15 worker[SubOrderPushWorker:2725] exit with status 64000
+2016-11-16 13:59:18 WORKER EXIT UNEXPECTED 
+2016-11-16 13:59:20 WORKER EXIT UNEXPECTED 
+2016-11-16 13:59:20 worker[SubOrderPushWorker:2747] exit with status 64000
+2016-11-16 13:59:20 worker[SubOrderPushWorker:2783] exit with status 64000
+2016-11-17 16:27:22 Workerman[cli.php] status 
+2016-11-17 16:27:22 Workerman[cli.php] not run
+2016-11-21 11:58:50 Workerman[cli.php] status 
+2016-11-21 11:58:50 Workerman[cli.php] not run

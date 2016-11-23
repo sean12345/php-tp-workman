@@ -1,0 +1,309 @@
+[ 2016-10-27T09:49:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000934s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012697s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001463s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131732s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010769s ]
+
+[ 2016-10-27T09:49:50+08:00 ] 127.0.0.1 /admin/debuger/sms.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000323s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004929s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001455s ]
+NOTIC: [8] Undefined variable: msg /home/vagrant/www/ant-manager/Application/Runtime/Cache/Admin/b2958c8c8e586a48faa6c68ada732ac5.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.306164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.367120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005077s ]
+
+[ 2016-10-27T09:49:51+08:00 ] 127.0.0.1 /admin/debuger/sms.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000605s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8] Undefined variable: msg /home/vagrant/www/ant-manager/Application/Runtime/Cache/Admin/b2958c8c8e586a48faa6c68ada732ac5.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002092s ]
+
+[ 2016-10-27T09:49:53+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004196s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Undefined variable: msg /home/vagrant/www/ant-manager/Application/Runtime/Cache/Admin/2275611bb46a2a49189a5a4b00fcf970.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005215s ]
+
+[ 2016-10-27T09:49:54+08:00 ] 127.0.0.1 /Admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001974s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+
+[ 2016-10-27T09:49:55+08:00 ] 127.0.0.1 /admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002446s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000320s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000751s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.200966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.201572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002626s ]
+
+[ 2016-10-27T09:49:57+08:00 ] 127.0.0.1 /admin/debuger/sms.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003480s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000312s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000750s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005544s ]
+
+[ 2016-10-27T09:51:06+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004652s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T09:51:24+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003750s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T09:51:36+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003707s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T09:52:18+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005449s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T09:53:44+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T15:34:31+08:00 ] 127.0.0.1 /admin/debuger/sms.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005519s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000376s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000719s ]
+NOTIC: [8] Undefined variable: msg /home/vagrant/www/ant-manager/Application/Runtime/Cache/Admin/b2958c8c8e586a48faa6c68ada732ac5.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005211s ]
+
+[ 2016-10-27T15:34:33+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000266s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined variable: msg /home/vagrant/www/ant-manager/Application/Runtime/Cache/Admin/2275611bb46a2a49189a5a4b00fcf970.php 第 41 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006197s ]
+
+[ 2016-10-27T15:34:34+08:00 ] 127.0.0.1 /Admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004707s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+
+[ 2016-10-27T15:34:35+08:00 ] 127.0.0.1 /admin/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000270s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000604s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.164858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004828s ]
+
+[ 2016-10-27T15:34:36+08:00 ] 127.0.0.1 /admin/debuger/sms.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000560s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001778s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2016-10-27T15:35:51+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003552s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T15:35:59+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+
+[ 2016-10-27T15:36:04+08:00 ] 127.0.0.1 /Admin/Debuger/request
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001912s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Session/Driver/Db.class.php 第 95 行.
+NOTIC: [2048] Declaration of Admin\Controller\DebugerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /home/vagrant/www/ant-manager/Application/Admin/Controller/DebugerController.class.php 第 17 行.
+

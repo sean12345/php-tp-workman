@@ -1,0 +1,9 @@
+[ 2016-09-30T09:30:54+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_id=10788&account_type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004932s ]
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 10788 LIMIT 1   [ RunTime:0.0033s ]
+

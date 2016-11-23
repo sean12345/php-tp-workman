@@ -1,0 +1,677 @@
+[ 2016-09-23T10:11:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002092s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001824s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002196s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002472s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:11:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T10:12:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+
+[ 2016-09-23T10:12:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002166s ]
+
+[ 2016-09-23T10:12:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+
+[ 2016-09-23T10:12:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+
+[ 2016-09-23T10:12:51+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001966s ]
+
+[ 2016-09-23T10:12:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+
+[ 2016-09-23T10:17:35+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+
+[ 2016-09-23T10:17:35+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+
+[ 2016-09-23T10:18:54+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002693s ]
+
+[ 2016-09-23T10:18:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001701s ]
+
+[ 2016-09-23T11:28:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2016-09-23T11:28:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-09-23T11:28:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2016-09-23T11:28:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2016-09-23T11:48:56+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+
+[ 2016-09-23T11:48:57+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+
+[ 2016-09-23T11:48:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+
+[ 2016-09-23T11:48:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002130s ]
+
+[ 2016-09-23T11:48:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002181s ]
+
+[ 2016-09-23T11:48:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002265s ]
+
+[ 2016-09-23T11:51:56+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002098s ]
+
+[ 2016-09-23T11:51:56+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+
+[ 2016-09-23T11:52:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+
+[ 2016-09-23T11:52:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+
+[ 2016-09-23T11:52:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+
+[ 2016-09-23T11:52:45+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+
+[ 2016-09-23T15:33:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+
+[ 2016-09-23T15:33:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+
+[ 2016-09-23T17:57:08+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-23T17:57:09+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+
+[ 2016-09-23T18:28:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+
+[ 2016-09-23T18:28:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-09-23T19:28:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+
+[ 2016-09-23T19:28:18+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+
+[ 2016-09-23T19:28:23+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+
+[ 2016-09-23T19:28:23+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0052s ]
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0014s ]
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0041s ]
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+ERR: 2006:MySQL server has gone away
+ [ SQL语句 ] : INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1003','18613890691','YUNPIAN','13','{\"code\":\"028201\"}','0','OK','2016-09-23 14:25:47','2016-09-23 14:25:44')
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+ERR: 2006:MySQL server has gone away
+ [ SQL语句 ] : INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1003','18613890691','YUNPIAN','13','{\"code\":\"540213\"}','0','OK','2016-09-23 16:38:54','2016-09-23 16:38:52')
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+ERR: 2006:MySQL server has gone away
+ [ SQL语句 ] : INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1003','18613890691','YUNPIAN','12','{\"code\":\"472261\"}','0','OK','2016-09-23 16:51:44','2016-09-23 16:51:42')
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0024s ]
+NOTIC: [8] Undefined variable: currentGateWay /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php 第 61 行.
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:02+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-09-23T19:29:03+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002714s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:03+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/NotifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:06+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-msg/Cli/SMS/Data/VerifyMsgWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-09-23T19:29:07+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+
+[ 2016-09-23T19:29:07+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+
+[ 2016-09-23T19:30:56+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001854s ]
+
+[ 2016-09-23T19:30:57+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+
+[ 2016-09-23T19:31:16+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+
+[ 2016-09-23T19:31:16+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+
+[ 2016-09-23T19:31:51+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+
+[ 2016-09-23T19:31:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001943s ]
+
+[ 2016-09-23T19:41:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002110s ]
+
+[ 2016-09-23T19:41:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+

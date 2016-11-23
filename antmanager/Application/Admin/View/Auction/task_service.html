@@ -1,0 +1,27 @@
+<div class="am-cf am-padding">
+    <div class="am-fl am-cf"><strong class="am-text-primary am-text-lg">拍单订阅服务</strong> / <small>任务服务日志</small></div>
+</div>
+
+<hr/>
+
+<div class="am-g error-log">
+    <div class="am-u-sm-12 am-u-sm-centered">
+        <pre class="am-pre-scrollable">
+            <foreach name="content_suborder" item="line" >
+                <span class="am-text-success">{$line}</span>
+            </foreach>
+        </pre>
+        <p>拍单订阅分发服务</p>
+    </div>
+</div>
+
+<div class="am-g error-log">
+    <div class="am-u-sm-12 am-u-sm-centered">
+        <pre class="am-pre-scrollable">
+            <foreach name="content_suborderpush" item="line" >
+                <span class="am-text-success">{$line}</span>
+            </foreach>
+        </pre>
+        <p>拍单订阅推送服务</p>
+    </div>
+</div>

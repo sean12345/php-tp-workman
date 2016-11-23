@@ -1,0 +1,520 @@
+[ 2016-10-28T10:46:19+08:00 ] 127.0.0.1 /ucenter/doc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005088s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005390s ]
+
+[ 2016-10-28T10:55:34+08:00 ] 127.0.0.1 /ucenter/doc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002884s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000536s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005455s ]
+
+[ 2016-10-28T10:56:59+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=4&account_name=clcw_ubc8bi_s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004760s ]
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_employee_account` WHERE `account_name` = 'clcw_ubc8bi_s' LIMIT 1   [ RunTime:0.0078s ]
+
+[ 2016-10-28T10:57:13+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=4&account_name=clcw_ubc8bi_s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002297s ]
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_employee_account` WHERE `account_name` = 'clcw_ubc8bi_s' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T10:57:56+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=4&account_name=clcw_ubc8bi_s
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003638s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_employee_account` WHERE `account_name` = 'clcw_ubc8bi_s' LIMIT 1   [ RunTime:0.0093s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T10:58:56+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=4&account_name=sean_103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003646s ]
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_employee_account` WHERE `account_name` = 'sean_103' LIMIT 1   [ RunTime:0.0034s ]
+
+[ 2016-10-28T10:59:05+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004793s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_103' LIMIT 1   [ RunTime:0.0089s ]
+
+[ 2016-10-28T11:00:13+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_id=10808
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003234s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0029s ]
+
+[ 2016-10-28T11:00:16+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_id=1080s8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003116s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 1080 LIMIT 1   [ RunTime:0.0036s ]
+
+[ 2016-10-28T11:01:06+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_id=1080s8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003911s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 1080 LIMIT 1   [ RunTime:0.0034s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T11:01:57+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_id=1080s8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005533s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 1080 LIMIT 1   [ RunTime:0.0076s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T11:04:25+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_id=10808
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004748s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`pwd`,`status`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0032s ]
+
+[ 2016-10-28T19:43:54+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003582s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_103' LIMIT 1   [ RunTime:0.0033s ]
+
+[ 2016-10-28T19:43:57+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003237s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T19:45:23+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003784s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0036s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T19:45:26+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T19:45:52+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003533s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0026s ]
+
+[ 2016-10-28T19:47:08+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003396s ]
+
+[ 2016-10-28T19:47:21+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003683s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0062s ]
+
+[ 2016-10-28T19:47:40+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004479s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T19:48:03+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002335s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0038s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T19:48:41+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004042s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T19:49:13+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005430s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+
+[ 2016-10-28T19:49:47+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003629s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T19:50:36+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003353s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2016-10-28T19:50:39+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003600s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0027s ]
+
+[ 2016-10-28T19:50:51+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004542s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2016-10-28T19:50:57+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_10s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_10s3' LIMIT 1   [ RunTime:0.0033s ]
+
+[ 2016-10-28T19:51:01+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_103
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003504s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_103' LIMIT 1   [ RunTime:0.0032s ]
+
+[ 2016-10-28T19:51:13+08:00 ] 127.0.0.1 /ucenter/api/accounts/info?account_type=2&account_name=sean_1s3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000420s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003328s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT `account_id`,`account_name`,`email`,`mobile`,`nick_name`,`real_name`,`u_idcard`,`account_avatar`,`sex`,`province_id`,`city_id`,`address`,`las_login_time`,`createtime`,`updatetime` FROM `uc_dealer_account` WHERE `account_name` = 'sean_1s3' LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2016-10-28T20:19:06+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004704s ]
+
+[ 2016-10-28T20:19:35+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003505s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT * FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0035s ]
+SQL: UPDATE `uc_dealer_account` SET `status`='2' WHERE `account_id` = 10808 [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: types /home/vagrant/www/ant-account/Application/Ucenter/Service/AccountOptionLogService.class.php 第 24 行.
+NOTIC: [8] Undefined index: validate /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `uc_dealer_account_option_log` (`account_id`,`option`,`remark`,`manager_account_id`,`manager_ip`,`createtime`) VALUES ('10808','禁用用户','','123','111','2016-10-28 20:19:35') [ RunTime:0.0018s ]
+NOTIC: [2] Missing argument 1 for Common\Org\Request::__construct(), called in /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php on line 168 and defined /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 19 行.
+NOTIC: [2] Missing argument 2 for Common\Org\Request::__construct(), called in /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php on line 168 and defined /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 19 行.
+NOTIC: [8] Undefined variable: secret_key /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 21 行.
+
+[ 2016-10-28T20:19:52+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003577s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT * FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0035s ]
+SQL: UPDATE `uc_dealer_account` SET `status`='2' WHERE `account_id` = 10808 [ RunTime:0.0021s ]
+NOTIC: [8] Undefined index: types /home/vagrant/www/ant-account/Application/Ucenter/Service/AccountOptionLogService.class.php 第 24 行.
+NOTIC: [8] Undefined index: validate /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `uc_dealer_account_option_log` (`account_id`,`option`,`remark`,`manager_account_id`,`manager_ip`,`createtime`) VALUES ('10808','禁用用户','','123','111','2016-10-28 20:19:51') [ RunTime:0.0023s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [2] Missing argument 1 for Common\Org\Request::__construct(), called in /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php on line 168 and defined /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 19 行.
+NOTIC: [2] Missing argument 2 for Common\Org\Request::__construct(), called in /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php on line 168 and defined /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 19 行.
+NOTIC: [8] Undefined variable: secret_key /home/vagrant/www/ant-account/Application/Common/Org/Request.class.php 第 21 行.
+
+[ 2016-10-28T20:22:36+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004531s ]
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT * FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0064s ]
+SQL: UPDATE `uc_dealer_account` SET `status`='2' WHERE `account_id` = 10808 [ RunTime:0.0039s ]
+NOTIC: [8] Undefined index: types /home/vagrant/www/ant-account/Application/Ucenter/Service/AccountOptionLogService.class.php 第 24 行.
+NOTIC: [8] Undefined index: validate /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `uc_dealer_account_option_log` (`account_id`,`option`,`remark`,`manager_account_id`,`manager_ip`,`createtime`) VALUES ('10808','禁用用户','','123','111','2016-10-28 20:22:25') [ RunTime:0.0031s ]
+NOTIC: [8] Undefined variable: uid /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php 第 175 行.
+
+[ 2016-10-28T20:22:59+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000278s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005220s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT * FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0089s ]
+SQL: UPDATE `uc_dealer_account` SET `status`='2' WHERE `account_id` = 10808 [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: types /home/vagrant/www/ant-account/Application/Ucenter/Service/AccountOptionLogService.class.php 第 24 行.
+NOTIC: [8] Undefined index: validate /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `uc_dealer_account_option_log` (`account_id`,`option`,`remark`,`manager_account_id`,`manager_ip`,`createtime`) VALUES ('10808','禁用用户','','123','111','2016-10-28 20:22:48') [ RunTime:0.0019s ]
+NOTIC: [8] Undefined variable: uid /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php 第 175 行.
+
+[ 2016-10-28T20:23:19+08:00 ] 127.0.0.1 /ucenter/api/accounts/inactive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003430s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Use of undefined constant MODEL_UPDATE - assumed 'MODEL_UPDATE' /home/vagrant/www/ant-account/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SELECT * FROM `uc_dealer_account` WHERE `account_id` = 10808 LIMIT 1   [ RunTime:0.0034s ]
+SQL: UPDATE `uc_dealer_account` SET `status`='2' WHERE `account_id` = 10808 [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: types /home/vagrant/www/ant-account/Application/Ucenter/Service/AccountOptionLogService.class.php 第 24 行.
+NOTIC: [8] Undefined index: validate /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /home/vagrant/www/ant-account/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `uc_dealer_account_option_log` (`account_id`,`option`,`remark`,`manager_account_id`,`manager_ip`,`createtime`) VALUES ('10808','禁用用户','','123','111','2016-10-28 20:22:53') [ RunTime:0.0019s ]
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: uid /home/vagrant/www/ant-account/Application/Ucenter/Controller/AccountOptionController.class.php 第 175 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+NOTIC: [8] Undefined variable: response xdebug://debug-eval 第 1 行.
+

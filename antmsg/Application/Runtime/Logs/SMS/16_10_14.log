@@ -1,0 +1,20 @@
+[ 2016-10-14T15:29:43+08:00 ] 127.0.0.1 /sms/doc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010739s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000623s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010635s ]
+

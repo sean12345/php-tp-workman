@@ -1,0 +1,8 @@
+[ 2016-09-29T15:18:12+08:00 ] 127.0.0.1 /auctionsub/api/order/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006555s ]
+

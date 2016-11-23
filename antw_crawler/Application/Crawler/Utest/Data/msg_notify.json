@@ -1,0 +1,52 @@
+[
+    {
+        "uri": "sms/api/notify",
+        "description": "",
+        "headers": "",
+        "method": "POST",
+        "params": {
+            "number": "1",
+            "mobile": "15029911786",
+            "content_params": {"username":"sean(测试数据)","password":"111111"}
+        },
+        "responses": {
+            "code": "000000",
+            "data": {
+                "account_id": ""
+            },
+            "msg": "短信发送成功"
+        }
+    },
+    {
+        "uri": "sms/api/notify",
+        "description": "",
+        "headers": "",
+        "method": "POST",
+        "params": {
+            "number": "1",
+            "mobile": "",
+            "content_params": {"username":"sean","password":"111111"}
+        },
+        "responses": {
+            "code": "120006",
+            "data": [],
+            "msg": "电话号码无效！"
+        }
+    },
+    {
+        "uri": "sms/api/notify",
+        "description": "",
+        "headers": "",
+        "method": "POST",
+        "params": {
+            "number": "",
+            "mobile": "15029911786",
+            "content_params": {"username":"sean","password":"111111"}
+        },
+        "responses": {
+            "code": "120002",
+            "data": [],
+            "msg": "短信模板类型编号无效！"
+        }
+    }
+]

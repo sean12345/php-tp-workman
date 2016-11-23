@@ -1,0 +1,301 @@
+[2016-09-25 17:49:43]Worker starting. worker_id: 17201, Current Msg GateWay: CHINAMSG.
+[2016-09-25 17:49:43]Worker starting. worker_id: 17200, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-25 17:52:09]Worker starting. worker_id: 17258, Current Msg GateWay: YUNPIAN.
+[2016-09-25 17:52:09]Worker starting. worker_id: 17259, Current Msg GateWay: YUNPIAN.
+Worker stopping...
+Worker stopping...
+[2016-09-25 17:56:08]Worker starting. worker_id: 17311, Current Msg GateWay: YUNPIAN.
+[2016-09-25 17:56:08]Worker starting. worker_id: 17310, Current Msg GateWay: YUNPIAN.
+Worker stopping...
+Worker stopping...
+[2016-09-25 17:58:45]Worker starting. worker_id: 17357, Current Msg GateWay: CHINAMSG.
+[2016-09-25 17:58:45]Worker starting. worker_id: 17358, Current Msg GateWay: CHINAMSG.
+[2016-09-25 17:59:02][Exception] code:120002, msg:短信模板类型编号无效！
+[2016-09-25 18:06:35][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 18:06:54]Worker starting. worker_id: 17408, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:06:54]Worker starting. worker_id: 17409, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:06:56]Worker starting. worker_id: 17419, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:06:56]Worker starting. worker_id: 17418, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:06:58]Worker starting. worker_id: 17422, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:06:58]Worker starting. worker_id: 17423, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:01]Worker starting. worker_id: 17426, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:01]Worker starting. worker_id: 17427, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:03]Worker starting. worker_id: 17431, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:03]Worker starting. worker_id: 17430, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:05]Worker starting. worker_id: 17434, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:05]Worker starting. worker_id: 17435, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:07]Worker starting. worker_id: 17438, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:07]Worker starting. worker_id: 17439, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:09]Worker starting. worker_id: 17443, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:09]Worker starting. worker_id: 17442, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:11]Worker starting. worker_id: 17446, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:11]Worker starting. worker_id: 17447, Current Msg GateWay: CHINAMSG.
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+
+Parse error: syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';' in /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php on line 78
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+syntax error, unexpected '$resSend' (T_VARIABLE), expecting ',' or ';'
+FILE: /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(78)
+[2016-09-25 18:07:13]Worker starting. worker_id: 17451, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:13]Worker starting. worker_id: 17450, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-25 18:07:22]Worker starting. worker_id: 17483, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:22]Worker starting. worker_id: 17482, Current Msg GateWay: CHINAMSG.
+[2016-09-25 18:07:31][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:18:19]Worker starting. worker_id: 17581, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:18:19]Worker starting. worker_id: 17582, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:18:24][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:20:21]Worker starting. worker_id: 17622, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:20:21]Worker starting. worker_id: 17623, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========66. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+[2016-09-25 19:20:25][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:21:32]Worker starting. worker_id: 17662, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:21:32]Worker starting. worker_id: 17661, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========66. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========77. 1281455
+[2016-09-25 19:21:38][Exception] code:120002, msg:短信模板类型编号无效！
+=========55. 12
+=========66. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========77. 1281455
+[2016-09-25 19:22:18][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:25:20]Worker starting. worker_id: 17707, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:25:20]Worker starting. worker_id: 17706, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+[2016-09-25 19:25:24][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:26:51]Worker starting. worker_id: 17746, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:26:51]Worker starting. worker_id: 17747, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+[2016-09-25 19:26:55][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:28:55]Worker starting. worker_id: 17786, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:28:55]Worker starting. worker_id: 17787, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+[2016-09-25 19:29:01][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:30:00]Worker starting. worker_id: 17825, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:30:00]Worker starting. worker_id: 17826, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=========yy99. 
+=========yy100. 
+[2016-09-25 19:30:06][Exception] code:120002, msg:短信模板类型编号无效！
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=========yy99. 
+=========yy100. 
+[2016-09-25 19:30:49][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:32:20]Worker starting. worker_id: 17868, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:32:20]Worker starting. worker_id: 17867, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=========yy99. 
+=========yy101. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========yy102. 
+=========yy100. 
+[2016-09-25 19:32:26][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:35:42]Worker starting. worker_id: 17907, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:35:42]Worker starting. worker_id: 17908, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=============2. 
+=========yy99. 
+=========yy101. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========yy102. 
+=========yy100. 
+[2016-09-25 19:35:49][Exception] code:120002, msg:短信模板类型编号无效！
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:37:15]Worker starting. worker_id: 17948, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:37:15]Worker starting. worker_id: 17947, Current Msg GateWay: CHINAMSG.
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=============2. 
+=========yy99. 1281455
+=========yy101. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========yy102. 12
+=============1. 1
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=============2. 
+=========yy99. 1281455
+=========yy101. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========yy102. 12
+=============1. 1
+=========55. 12
+=========77. 1281455
+=========99. 1281455
+=============2. 
+=========yy99. 1281455
+=========yy101. {"1":{"tpl_id":"1124141","var_list":{"username":"","password":""}},"2":{"tpl_id":"1124143","var_list":{"address":"","emp":"","mob":"","date":""}},"3":{"tpl_id":"1124155","var_list":{"per":""}},"4":{"tpl_id":"1124159","var_list":{"per":""}},"5":{"tpl_id":"1124163","var_list":[]},"6":{"tpl_id":"1124165","var_list":{"order_no":""}},"7":{"tpl_id":"1124167","var_list":{"order_no":"","datetime":""}},"8":{"tpl_id":"1124169","var_list":{"order_no":"","price":""}},"9":{"tpl_id":"1124171","var_list":{"username":"","password":""}},"10":{"tpl_id":"1124175","var_list":{"add_price":"","remain":""}},"11":{"tpl_id":"1178591","var_list":{"scene_name":"","carlist":""}},"12":{"tpl_id":"1281455","var_list":{"code":""}},"13":{"tpl_id":"1281447","var_list":{"code":""}},"14":{"tpl_id":"1281451","var_list":{"code":""}},"15":{"tpl_id":"1281455","var_list":{"code":""}},"16":{"tpl_id":"1330857","var_list":{"mob":"","pwd":""}},"17":{"tpl_id":"1330859","var_list":[]},"18":{"tpl_id":"1350031","var_list":{"realname":"","username":"","password":""}},"19":{"tpl_id":"1350033","var_list":{"realname":"","username":"","password":""}},"20":{"tpl_id":"1427585","var_list":{"order_number":"","check_limit_time":"","check_addr":""}},"21":{"tpl_id":"1520936","var_list":{"code":""}},"50":{"tpl_id":"1540652","var_list":{"system_name":"","level":"","content":""}}}
+=========yy102. 12
+=============1. 1
+=============2. 
+=============1. 1
+=============2. 
+=============1. 1
+Worker stopping...
+Worker stopping...
+[2016-09-25 19:42:23]Worker starting. worker_id: 18020, Current Msg GateWay: CHINAMSG.
+[2016-09-25 19:42:23]Worker starting. worker_id: 18021, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-27 23:50:17]Worker starting. worker_id: 6573, Current Msg GateWay: CHINAMSG.
+[2016-09-27 23:50:17]Worker starting. worker_id: 6574, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-27 23:50:53]Worker starting. worker_id: 6613, Current Msg GateWay: CHINAMSG.
+[2016-09-27 23:50:53]Worker starting. worker_id: 6612, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-27 23:54:17]Worker starting. worker_id: 6656, Current Msg GateWay: CHINAMSG.
+[2016-09-27 23:54:17]Worker starting. worker_id: 6655, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-27 23:56:49]Worker starting. worker_id: 6708, Current Msg GateWay: CHINAMSG.
+[2016-09-27 23:56:49]Worker starting. worker_id: 6709, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-27 23:57:32]Worker starting. worker_id: 6764, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+[2016-09-27 23:57:33]Worker starting. worker_id: 6765, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+[2016-09-28 08:55:51]Worker starting. worker_id: 7190, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+[2016-09-28 08:55:51]Worker starting. worker_id: 7191, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+[2016-09-28 08:59:05]Worker starting. worker_id: 7250, Current Msg GateWay: CHINAMSG.
+[2016-09-28 08:59:05]Worker starting. worker_id: 7249, Current Msg GateWay: CHINAMSG.
+[2016-09-28 09:00:38]Worker starting. worker_id: 7321, Current Msg GateWay: CHINAMSG.
+[2016-09-28 09:00:38]Worker starting. worker_id: 7322, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-09-28 09:00:52]Worker starting. worker_id: 7353, Current Msg GateWay: CHINAMSG.
+[2016-09-28 09:00:52]Worker starting. worker_id: 7354, Current Msg GateWay: CHINAMSG.
+exception 'RedisException' with message 'read error on connection' in /home/vagrant/www/ant-msg/Cli/Common/Org/PhpRedis.class.php:90
+Stack trace:
+#0 /home/vagrant/www/ant-msg/Cli/Common/Org/PhpRedis.class.php(90): Redis->lLen('list_msg_verify...')
+#1 /home/vagrant/www/ant-msg/Cli/SMS/Service/MsgTaskService.class.php(101): Common\Org\PhpRedis->lLen('list_msg_verify...')
+#2 /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php(55): SMS\Service\MsgTaskService->getVerifyTaskCount('CHINAMSG')
+#3 [internal function]: SMS\Controller\VerifyMsgController->SMS\Controller\{closure}('CHINAMSG')
+#4 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Events/Libevent.php(171): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: Workerman\Events\Libevent->timerCallback(Resource id #0, 1, 73)
+#6 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Events/Libevent.php(200): event_base_loop(Resource id #56)
+#7 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php(1479): Workerman\Events\Libevent->loop()
+#8 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php(907): Workerman\Worker->run()
+#9 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php(873): Workerman\Worker::forkOneWorker(Object(Workerman\Worker))
+#10 /home/vagrant/www/ant-msg/Cli/Org/Workerman/Worker.php(422): Workerman\Worker::forkWorkers()
+#11 /home/vagrant/www/ant-msg/Cli/SMS/Controller/VerifyMsgController.class.php(89): Workerman\Worker::runAll()
+#12 [internal function]: SMS\Controller\VerifyMsgController->msgProcess()
+#13 /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/App.class.php(173): ReflectionMethod->invoke(Object(SMS\Controller\VerifyMsgController))
+#14 /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/App.class.php(110): Think\App::invokeAction(Object(SMS\Controller\VerifyMsgController), 'msgProcess')
+#15 /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/App.class.php(204): Think\App::exec()
+#16 /home/vagrant/www/ant-msg/ThinkPHP/Library/Think/Think.class.php(120): Think\App::run()
+#17 /home/vagrant/www/ant-msg/ThinkPHP/ThinkPHP.php(94): Think\Think::start()
+#18 /home/vagrant/www/ant-msg/cli.php(49): require('/home/vagrant/w...')
+#19 {main}[2016-09-28 13:11:16]Worker starting. worker_id: 8530, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...
+[2016-11-14 19:04:51]Worker starting. worker_id: 24549, Current Msg GateWay: CHINAMSG.
+[2016-11-14 19:04:51]Worker starting. worker_id: 24548, Current Msg GateWay: CHINAMSG.
+Worker stopping...
+Worker stopping...

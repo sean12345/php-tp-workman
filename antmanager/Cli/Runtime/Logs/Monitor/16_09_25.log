@@ -1,0 +1,551 @@
+[ 2016-09-25T19:59:03+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002660s ]
+
+[ 2016-09-25T20:00:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004618s ]
+
+[ 2016-09-25T20:01:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002839s ]
+
+[ 2016-09-25T20:02:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002085s ]
+
+[ 2016-09-25T20:02:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002833s ]
+
+[ 2016-09-25T20:03:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+
+[ 2016-09-25T20:03:09+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2016-09-25T20:05:27+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002022s ]
+
+[ 2016-09-25T20:06:01+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002576s ]
+
+[ 2016-09-25T20:06:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 49 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 49 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002493s ]
+
+[ 2016-09-25T20:10:19+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002476s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:10:18','2016-09-25 20:10:18') [ RunTime:0.1013s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0024s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:10:18','2016-09-25 20:10:18') [ RunTime:0.1110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013620s ]
+
+[ 2016-09-25T20:11:27+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:11:26','2016-09-25 20:11:26') [ RunTime:0.0946s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0017s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:11:26','2016-09-25 20:11:26') [ RunTime:0.1036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011855s ]
+
+[ 2016-09-25T20:11:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:11:43','2016-09-25 20:11:43') [ RunTime:0.1031s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0019s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:11:43','2016-09-25 20:11:43') [ RunTime:0.0997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005834s ]
+
+[ 2016-09-25T20:16:31+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:16:30','2016-09-25 20:16:31') [ RunTime:0.1051s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:16:31','2016-09-25 20:16:31') [ RunTime:0.1038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002781s ]
+
+[ 2016-09-25T20:17:12+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001985s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:17:11','2016-09-25 20:17:11') [ RunTime:0.1053s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0014s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:17:11','2016-09-25 20:17:11') [ RunTime:0.1021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011877s ]
+
+[ 2016-09-25T20:17:47+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:17:46','2016-09-25 20:17:46') [ RunTime:0.0962s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0018s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:17:46','2016-09-25 20:17:46') [ RunTime:0.1078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003054s ]
+
+[ 2016-09-25T20:18:44+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0021s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:18:44','2016-09-25 20:18:44') [ RunTime:0.1003s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:18:44','2016-09-25 20:18:44') [ RunTime:0.0976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006726s ]
+
+[ 2016-09-25T20:19:42+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003121s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0013s ]
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:19:41','2016-09-25 20:19:42') [ RunTime:0.1140s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: SELECT `gateway_name` FROM `ant_msg_gateway` WHERE `is_current` = 1 LIMIT 1   [ RunTime:0.0020s ]
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:19:42','2016-09-25 20:19:42') [ RunTime:0.0978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010448s ]
+
+[ 2016-09-25T20:32:26+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002347s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [8] Undefined index: MONITOR /home/vagrant/www/ant-manager/Cli/Base/ExceptionHandler.class.php 第 29 行.
+ERR: 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2016-09-25T20:33:19+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001649s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [8] Undefined index: MONITOR /home/vagrant/www/ant-manager/Cli/Base/ExceptionHandler.class.php 第 29 行.
+ERR: 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2016-09-25T20:34:26+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001753s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [8] Undefined index: MONITOR /home/vagrant/www/ant-manager/Cli/Base/ExceptionHandler.class.php 第 29 行.
+ERR: 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2016-09-25T20:34:41+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [8] Undefined index: MONITOR /home/vagrant/www/ant-manager/Cli/Base/ExceptionHandler.class.php 第 29 行.
+ERR: 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2016-09-25T20:35:39+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+ERR: Think\Model:msgSend方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php:69) /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Think.class.php 第 230 行.
+
+[ 2016-09-25T20:35:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:35:56','2016-09-25 20:35:56') [ RunTime:0.1135s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 50 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:35:56','2016-09-25 20:35:57') [ RunTime:0.1051s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:35:56','2016-09-25 20:35:57') [ RunTime:0.1083s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:35:57','2016-09-25 20:35:57') [ RunTime:0.1080s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 50 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:35:57','2016-09-25 20:35:57') [ RunTime:0.1095s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 57 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:35:57','2016-09-25 20:35:58') [ RunTime:0.0990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004591s ]
+
+[ 2016-09-25T20:37:41+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001560s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:37:39','2016-09-25 20:37:40') [ RunTime:0.1009s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:37:39','2016-09-25 20:37:40') [ RunTime:0.1203s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:37:39','2016-09-25 20:37:40') [ RunTime:0.1024s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:37:40','2016-09-25 20:37:40') [ RunTime:0.1100s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:37:40','2016-09-25 20:37:41') [ RunTime:0.1091s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:37:40','2016-09-25 20:37:41') [ RunTime:0.1173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005011s ]
+
+[ 2016-09-25T20:41:14+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:41:12','2016-09-25 20:41:13') [ RunTime:0.1184s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:41:12','2016-09-25 20:41:13') [ RunTime:0.1218s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u901a\\u77e5\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:41:12','2016-09-25 20:41:13') [ RunTime:0.1113s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','0','OK','2016-09-25 20:41:13','2016-09-25 20:41:13') [ RunTime:0.1050s ]
+NOTIC: [8] Undefined variable: resSend /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWayService.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','YUNPIAN','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','8','同一手机号30秒内重复提交相同的内容','2016-09-25 20:41:13','2016-09-25 20:41:14') [ RunTime:0.1001s ]
+NOTIC: [2048] Non-static method SMS\Org\NetCom::postSMS() should not be called statically, assuming $this from incompatible context /home/vagrant/www/ant-manager/Cli/SMS/Service/MsgGateWay/Chinamsg.class.php 第 56 行.
+NOTIC: [8] Undefined index: port /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 44 行.
+NOTIC: [8] Undefined variable: post /home/vagrant/www/ant-manager/Cli/SMS/Org/NetCom.class.php 第 48 行.
+SQL: INSERT INTO `ant_msg_send_log` (`appkey`,`mobile`,`gateway`,`msg_type`,`msg_var`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('AK2016.API.1000','15029911786','CHINAMSG','50','{\"system_name\":\"AN\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\",\"level\":\"1\",\"content\":\"\\u8681\\u5de2\\u77ed\\u4fe1\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u4efb\\u52a1\\u670d\\u52a1\\u8fd0\\u884c\\u5f02\\u5e38\\uff01\"}','1','OK','2016-09-25 20:41:13','2016-09-25 20:41:14') [ RunTime:0.1105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011469s ]
+
+[ 2016-09-25T20:41:59+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005095s ]
+
+[ 2016-09-25T20:49:19+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003403s ]
+
+[ 2016-09-25T20:49:56+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001517s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003239s ]
+
+[ 2016-09-25T20:50:32+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-manager/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10021 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+NOTIC: [2] fsockopen(): unable to connect to tcp://127.0.0.1:10022 (Connection refused) /home/vagrant/www/ant-manager/Cli/Monitor/Service/MonitorService.class.php 第 48 行.
+NOTIC: [2] Redis::get() expects exactly 1 parameter, 2 given /home/vagrant/www/ant-manager/Cli/Common/Org/PhpRedis.class.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002778s ]
+

@@ -1,0 +1,50 @@
+2016-11-21 15:50:15 Workerman[cli.php] start in DEBUG mode
+2016-11-21 15:50:16 Workerman[cli.php] status 
+2016-11-21 15:51:35 Workerman[cli.php] status 
+2016-11-21 15:51:38 Workerman[cli.php] stop 
+2016-11-21 15:51:38 Workerman[cli.php] is stoping ...
+2016-11-21 15:51:38 Workerman[cli.php] Stopping ...
+2016-11-21 15:51:38 Workerman[cli.php] has been stopped
+2016-11-21 15:51:38 Workerman[cli.php] stop success
+2016-11-21 15:51:39 Workerman[cli.php] status 
+2016-11-21 15:51:39 Workerman[cli.php] not run
+2016-11-21 15:51:46 Workerman[cli.php] start in DEBUG mode
+2016-11-21 15:51:47 Workerman[cli.php] status 
+2016-11-21 16:51:48 WORKER EXIT UNEXPECTED 
+2016-11-21 16:51:48 worker[Crawler_Youxinpai_Gettask_Worker:2074] exit with status 64000
+2016-11-21 17:51:50 WORKER EXIT UNEXPECTED 
+2016-11-21 17:51:50 worker[Crawler_Youxinpai_Gettask_Worker:2994] exit with status 64000
+2016-11-21 19:51:53 WORKER EXIT UNEXPECTED 
+2016-11-21 19:51:53 worker[Crawler_Youxinpai_Gettask_Worker:3807] exit with status 64000
+2016-11-21 20:51:55 WORKER EXIT UNEXPECTED 
+2016-11-21 20:51:56 worker[Crawler_Youxinpai_Gettask_Worker:5510] exit with status 64000
+2016-11-22 10:34:39 WORKER EXIT UNEXPECTED 
+2016-11-22 10:34:39 worker[Crawler_Youxinpai_Gettask_Worker:6314] exit with status 64000
+2016-11-22 11:34:47 WORKER EXIT UNEXPECTED 
+2016-11-22 11:34:47 worker[Crawler_Youxinpai_Gettask_Worker:8727] exit with status 64000
+2016-11-22 12:34:52 WORKER EXIT UNEXPECTED 
+2016-11-22 12:34:52 worker[Crawler_Youxinpai_Gettask_Worker:9531] exit with status 64000
+2016-11-22 15:10:53 WORKER EXIT UNEXPECTED 
+2016-11-22 15:10:53 worker[Crawler_Youxinpai_Gettask_Worker:10359] exit with status 64000
+2016-11-22 16:10:55 WORKER EXIT UNEXPECTED 
+2016-11-22 16:10:55 worker[Crawler_Youxinpai_Gettask_Worker:12392] exit with status 64000
+2016-11-22 18:11:00 WORKER EXIT UNEXPECTED 
+2016-11-22 18:11:00 worker[Crawler_Youxinpai_Gettask_Worker:13977] exit with status 64000
+2016-11-22 19:11:02 WORKER EXIT UNEXPECTED 
+2016-11-22 19:11:02 worker[Crawler_Youxinpai_Gettask_Worker:15894] exit with status 64000
+2016-11-22 20:11:05 WORKER EXIT UNEXPECTED 
+2016-11-22 20:11:05 worker[Crawler_Youxinpai_Gettask_Worker:16749] exit with status 64000
+2016-11-23 10:18:14 WORKER EXIT UNEXPECTED 
+2016-11-23 10:18:14 worker[Crawler_Youxinpai_Gettask_Worker:17555] exit with status 64000
+2016-11-23 11:18:22 WORKER EXIT UNEXPECTED 
+2016-11-23 11:18:22 worker[Crawler_Youxinpai_Gettask_Worker:19314] exit with status 64000
+2016-11-23 12:18:26 WORKER EXIT UNEXPECTED 
+2016-11-23 12:18:26 worker[Crawler_Youxinpai_Gettask_Worker:20200] exit with status 64000
+2016-11-23 14:48:23 WORKER EXIT UNEXPECTED 
+2016-11-23 14:48:24 worker[Crawler_Youxinpai_Gettask_Worker:21143] exit with status 64000
+2016-11-23 15:48:25 WORKER EXIT UNEXPECTED 
+2016-11-23 15:48:25 worker[Crawler_Youxinpai_Gettask_Worker:23063] exit with status 64000
+2016-11-23 16:48:27 WORKER EXIT UNEXPECTED 
+2016-11-23 16:48:27 worker[Crawler_Youxinpai_Gettask_Worker:24769] exit with status 64000
+2016-11-23 17:48:29 WORKER EXIT UNEXPECTED 
+2016-11-23 17:48:29 worker[Crawler_Youxinpai_Gettask_Worker:25572] exit with status 64000

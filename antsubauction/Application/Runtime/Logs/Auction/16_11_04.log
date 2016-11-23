@@ -1,0 +1,10 @@
+[ 2016-11-04T18:08:33+08:00 ] 127.0.0.1 /auctionsub/api/notice/send
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005469s ]
+NOTIC: [2] error_log(): Filename cannot be empty /home/vagrant/www/ant-auction-sub/Application/Org/JPush/Http.php 第 129 行.
+SQL: INSERT INTO `ant_jpush_send_log` (`app_key`,`app_secret`,`mobile`,`notice_info`,`jpush_id`,`response_code`,`remark`,`request_time`,`createtime`) VALUES ('3f018eecffb595cd4d373dc2','7d864244977e459fd6c2fd6a','15029911786','ffff','123','1011','cannot find user by this audience','','2016-11-04 18:08:33') [ RunTime:0.1069s ]
+

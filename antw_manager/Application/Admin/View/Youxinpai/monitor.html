@@ -1,0 +1,148 @@
+<div class="am-cf am-padding">
+    <div class="am-fl am-cf"><strong class="am-text-primary am-text-lg">优信拍数据集成服务</strong> / <small>服务监控</small></div>
+</div>
+
+<hr>
+<ul class="am-avg-sm-1 am-avg-md-4 am-margin am-padding am-text-center admin-content-list ">
+  <!-- <li><a href="#" class="am-text-success"><span class="am-icon-btn am-icon-file-text"></span><br/>在线服务<br/>100</a></li> -->
+  <!-- <li><a href="#" class="am-text-warning"><span class="am-icon-btn am-icon-briefcase"></span><br/>热门服务<br/>30</a></li> -->
+  <!-- <li><a href="#" class="am-text-danger"><span class="am-icon-btn am-icon-recycle"></span><br/>任务处理<br/>20</a></li> -->
+  <!-- <li><a href="#" class="am-text-secondary"><span class="am-icon-btn am-icon-recycle"></span><br/>短信通知任务数<br/>300</a></li> -->
+  <li><a class="am-text-secondary"><span class="am-icon-btn am-icon-recycle"></span><br/>已集成车辆总数<br/>{$auction_count}</a></li>
+  <li><a class="am-text-secondary"><span class="am-icon-btn am-icon-recycle"></span><br/>已集成成交车辆总数<br/>{$auction_count_has_trade_price}</a></li>
+  <li><a class="am-text-danger"><span class="am-icon-btn am-icon-recycle"></span><br/>24小时内集成车辆总数<br/>{$auction_count_24}</a></li>
+  <li><a class="am-text-danger"><span class="am-icon-btn am-icon-recycle"></span><br/>24小时内获取车辆成交价总数<br/>{$auction_count_has_trade_price_24}</a></li>
+  <!-- <li><a class="am-text-danger"><span class="am-icon-btn am-icon-recycle"></span><br/>24小时内成交率<br/></a></li> -->
+</ul>
+
+<div class="am-g">
+  <div class="am-u-md-12">
+    <div class="am-panel am-panel-default">
+      <div class="am-panel-hd am-cf" >集成服务控制</div>
+      <div id="collapse-panel-3" class="am-in">
+                <form class="am-form-gateway" id="frm_requester" name="frm_requester" method='post' action="">
+                  <input type="hidden" name="frm_num" value="1">
+                  <div class="am-margin">
+                    <input type="hidden" name="ajax" value="1">
+                    <button type="button" class="am-btn am-btn-success" id="am-btn-start-service"> 启动服务</button>
+                    <button type="button" class="am-btn am-btn-warning" id="am-btn-stop-service"> 停止服务</button>
+                    <div class="am-alert am-alert-danger" id="am-alert-tag" style="display: none;" data-am-alert>
+                        <p>113</p>
+                    </div>
+                  </div>                
+                </form>
+                <div class="am-u-sm-12 am-u-sm-centered">
+                    <pre class="">
+                        </br>
+                        <foreach name="service_status" item="line" >
+                            {$line} . </br>
+                        </foreach>
+                    </pre>
+                </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="am-modal am-modal-confirm" tabindex="-1" id="am-confirm-sms-stop">
+  <div class="am-modal-dialog">
+    <div class="am-modal-hd"></div>
+    <div class="am-modal-bd" id="am-confirm-sms-tag">您确定要停止优信拍数据集成服务吗？</div>
+    <div class="am-modal-footer">
+      <span class="am-modal-btn" data-am-modal-confirm>确定</span>
+      <span class="am-modal-btn" data-am-modal-cancel>取消</span>
+    </div>
+  </div>
+</div>
+
+<div class="am-modal am-modal-confirm" tabindex="-1" id="am-confirm-sms-start">
+  <div class="am-modal-dialog">
+    <div class="am-modal-hd"></div>
+    <div class="am-modal-bd" id="am-confirm-sms-tag">您确定要启动优信拍数据集成服务吗？</div>
+    <div class="am-modal-footer">
+      <span class="am-modal-btn" data-am-modal-confirm>确定</span>
+      <span class="am-modal-btn" data-am-modal-cancel>取消</span>
+    </div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+
+    $(function() {
+
+              $('#am-btn-stop-service').on('click', function() {
+                    var $btn = $(this);
+                    $btn.button('loading');
+                    $('#am-confirm-sms-stop').modal({
+                          relatedTarget: this,
+                          onConfirm: function(options) {
+                                  $.ajax({
+                                    url: '__URL__/ajaxCrawlerServiceStop',
+                                    type: 'post',
+                                    dataType: 'json',
+                                    data: '',
+                                    success: function(data) {
+                                          if (data.code == '000000') {
+                                              refresh();
+                                          } else {
+                                              $("#am-alert-tag p").html('code: ' + data.code + ', msg: ' + data.msg);
+                                              $("#am-alert-tag").show();
+                                              $btn.button('reset');
+                                          }
+                                    },
+                                    error: function(e) {
+                                              $("#am-alert-tag p").html('当前ajax请求失败');
+                                              $("#am-alert-tag").show();
+                                              $btn.button('reset');
+                                    }
+                                  });
+                          },
+                          onCancel: function() {
+                                $btn.button('reset');
+                          }
+                    });
+                });
+
+                $('#am-btn-start-service').on('click', function() {
+                    var $btn = $(this);
+                    $btn.button('loading');
+                    $('#am-confirm-sms-start').modal({
+                        relatedTarget: this,
+                        onConfirm: function(options) {
+                                  $.ajax({
+                                    url: '__URL__/ajaxCrawlerServiceStart',
+                                    type: 'post',
+                                    dataType: 'json',
+                                    data: '',
+                                    success: function(data) {
+                                          if (data.code == '000000') {
+                                              refresh();
+                                          } else {
+                                              $("#am-alert-tag p").html('code: ' + data.code + ', msg: ' + data.msg);
+                                              $("#am-alert-tag").show();
+                                              $btn.button('reset');
+                                          }
+                                    },
+                                    error: function(e) {
+                                              $("#am-alert-tag p").html('当前ajax请求失败');
+                                              $("#am-alert-tag").show();
+                                              $btn.button('reset');
+                                    }
+                                  });
+                        },
+                        onCancel: function() {
+                            $btn.button('reset');
+                        }
+                    });
+                  });
+
+    });
+    
+    function refresh(){
+        window.location.reload();//刷新当前页面.
+        // 或者下方刷新方法
+        // parent.location.reload()刷新父亲对象（用于框架）--需在iframe框架内使用
+        // opener.location.reload()刷新父窗口对象（用于单开窗口
+        // top.location.reload()刷新最顶端对象（用于多开窗口）
+    }
+  </script>

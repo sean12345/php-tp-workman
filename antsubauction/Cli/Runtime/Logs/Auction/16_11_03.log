@@ -1,0 +1,220 @@
+[ 2016-11-03T08:51:50+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:50+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:51+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:51+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:51:58+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:52:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T08:52:00+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T12:37:43+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T12:37:46+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T12:37:46+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T12:39:21+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T15:37:44+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T19:18:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T19:18:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T19:18:28+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T19:18:29+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006738s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderPushWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
+[ 2016-11-03T20:52:53+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/vagrant/www/ant-auction-sub/ThinkPHP/Library/Think/Dispatcher.class.php 第 186 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006715s ]
+NOTIC: [2] file_get_contents(/home/vagrant/www/ant-auction-sub/Cli/Auction/Data/SubOrderWorker/workerman.pid): failed to open stream: No such file or directory /home/vagrant/www/ant-auction-sub/Cli/Org/Workerman/Worker.php 第 618 行.
+
